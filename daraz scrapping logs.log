@@ -1,0 +1,2563 @@
+2023-07-02 16:27:40,241 - INFO - Laptops Data Scrapping Started....
+
+2023-07-02 16:27:40,434 - INFO - Scrapping Data from page 1....
+2023-07-02 16:27:40,434 - INFO - Products found on page 1: 40
+
+2023-07-02 16:27:50,687 - INFO - Scrapping Data from page 2....
+2023-07-02 16:27:50,687 - INFO - Products found on page 2: 40
+
+2023-07-02 16:28:00,943 - INFO - Scrapping Data from page 3....
+2023-07-02 16:28:00,945 - INFO - Products found on page 3: 40
+
+2023-07-02 16:28:11,643 - INFO - Scrapping Data from page 4....
+2023-07-02 16:28:11,643 - INFO - Products found on page 4: 40
+
+2023-07-02 16:28:21,716 - INFO - Scrapping Data from page 5....
+2023-07-02 16:28:21,716 - INFO - Products found on page 5: 40
+
+2023-07-02 16:28:31,469 - INFO - Scrapping Data from page 6....
+2023-07-02 16:28:31,475 - INFO - Products found on page 6: 40
+
+2023-07-02 16:28:41,115 - INFO - Scrapping Data from page 7....
+2023-07-02 16:28:41,115 - INFO - Products found on page 7: 40
+
+2023-07-02 16:28:51,183 - INFO - Scrapping Data from page 8....
+2023-07-02 16:28:51,183 - INFO - Products found on page 8: 40
+
+2023-07-02 16:29:00,535 - INFO - Scrapping Data from page 9....
+2023-07-02 16:29:00,535 - INFO - Products found on page 9: 40
+
+2023-07-02 16:29:10,552 - INFO - Scrapping Data from page 10....
+2023-07-02 16:29:10,552 - INFO - Products found on page 10: 40
+
+2023-07-02 16:29:19,658 - INFO - Scrapping Data from page 11....
+2023-07-02 16:29:19,658 - INFO - Products found on page 11: 40
+
+2023-07-02 16:29:28,473 - INFO - Scrapping Data from page 12....
+2023-07-02 16:29:28,473 - INFO - Products found on page 12: 40
+
+2023-07-02 16:29:38,204 - INFO - Scrapping Data from page 13....
+2023-07-02 16:29:38,204 - INFO - Products found on page 13: 40
+
+2023-07-02 16:29:47,609 - INFO - Scrapping Data from page 14....
+2023-07-02 16:29:47,609 - INFO - Products found on page 14: 40
+
+2023-07-02 16:29:57,413 - INFO - Scrapping Data from page 15....
+2023-07-02 16:29:57,413 - INFO - Products found on page 15: 40
+
+2023-07-02 16:30:08,041 - INFO - Scrapping Data from page 16....
+2023-07-02 16:30:08,041 - INFO - Products found on page 16: 40
+
+2023-07-02 16:30:17,030 - INFO - Scrapping Data from page 17....
+2023-07-02 16:30:17,030 - INFO - Products found on page 17: 40
+
+2023-07-02 16:30:26,272 - INFO - Scrapping Data from page 18....
+2023-07-02 16:30:26,272 - INFO - Products found on page 18: 40
+
+2023-07-02 16:30:36,660 - INFO - Scrapping Data from page 19....
+2023-07-02 16:30:36,660 - INFO - Products found on page 19: 40
+
+2023-07-02 16:30:47,647 - INFO - Scrapping Data from page 20....
+2023-07-02 16:30:47,647 - INFO - Products found on page 20: 40
+
+2023-07-02 16:30:58,307 - INFO - Scrapping Data from page 21....
+2023-07-02 16:30:58,307 - INFO - Products found on page 21: 40
+
+2023-07-02 16:31:07,499 - INFO - Scrapping Data from page 22....
+2023-07-02 16:31:07,499 - INFO - Products found on page 22: 40
+
+2023-07-02 16:31:16,321 - INFO - Scrapping Data from page 23....
+2023-07-02 16:31:16,321 - INFO - Products found on page 23: 13
+
+2023-07-02 16:31:17,787 - INFO - 
+Finishing the scrapping....
+
+2023-07-02 16:31:17,787 - INFO - 
+Total products found: 893
+2023-07-02 16:31:17,805 - INFO - 
+Connecting to the database......
+
+2023-07-02 16:31:17,805 - INFO - Database connected successfully.
+2023-07-02 16:31:17,805 - INFO - 
+Storing data in database......
+
+2023-07-02 16:31:18,274 - INFO - 
+Data stored in Database Successfully.
+2023-07-04 09:16:52,769 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 09:16:52,904 - INFO - Scrapping Data from page 1....
+2023-07-04 09:16:52,904 - INFO - Products found on page 1: 40
+
+2023-07-04 09:17:07,353 - INFO - Scrapping Data from page 2....
+2023-07-04 09:17:07,353 - INFO - Products found on page 2: 40
+
+2023-07-04 09:17:21,927 - INFO - Scrapping Data from page 3....
+2023-07-04 09:17:21,927 - INFO - Products found on page 3: 40
+
+2023-07-04 09:17:37,104 - INFO - Scrapping Data from page 4....
+2023-07-04 09:17:37,104 - INFO - Products found on page 4: 40
+
+2023-07-04 09:17:51,242 - INFO - Scrapping Data from page 5....
+2023-07-04 09:17:51,244 - INFO - Products found on page 5: 40
+
+2023-07-04 09:18:04,808 - INFO - Scrapping Data from page 6....
+2023-07-04 09:18:04,808 - INFO - Products found on page 6: 40
+
+2023-07-04 09:18:18,022 - INFO - Scrapping Data from page 7....
+2023-07-04 09:18:18,022 - INFO - Products found on page 7: 40
+
+2023-07-04 09:18:30,392 - INFO - Scrapping Data from page 8....
+2023-07-04 09:18:30,392 - INFO - Products found on page 8: 40
+
+2023-07-04 09:18:42,267 - INFO - Scrapping Data from page 9....
+2023-07-04 09:18:42,267 - INFO - Products found on page 9: 40
+
+2023-07-04 09:18:53,705 - INFO - Scrapping Data from page 10....
+2023-07-04 09:18:53,705 - INFO - Products found on page 10: 40
+
+2023-07-04 09:19:04,638 - INFO - Scrapping Data from page 11....
+2023-07-04 09:19:04,638 - INFO - Products found on page 11: 40
+
+2023-07-04 09:19:15,628 - INFO - Scrapping Data from page 12....
+2023-07-04 09:19:15,628 - INFO - Products found on page 12: 40
+
+2023-07-04 09:19:26,751 - INFO - Scrapping Data from page 13....
+2023-07-04 09:19:26,751 - INFO - Products found on page 13: 40
+
+2023-07-04 09:19:38,128 - INFO - Scrapping Data from page 14....
+2023-07-04 09:19:38,128 - INFO - Products found on page 14: 40
+
+2023-07-04 09:19:49,125 - INFO - Scrapping Data from page 15....
+2023-07-04 09:19:49,125 - INFO - Products found on page 15: 40
+
+2023-07-04 09:20:00,266 - INFO - Scrapping Data from page 16....
+2023-07-04 09:20:00,268 - INFO - Products found on page 16: 40
+
+2023-07-04 09:20:11,149 - INFO - Scrapping Data from page 17....
+2023-07-04 09:20:11,149 - INFO - Products found on page 17: 40
+
+2023-07-04 09:20:22,302 - INFO - Scrapping Data from page 18....
+2023-07-04 09:20:22,303 - INFO - Products found on page 18: 40
+
+2023-07-04 09:20:37,216 - INFO - Scrapping Data from page 19....
+2023-07-04 09:20:37,216 - INFO - Products found on page 19: 40
+
+2023-07-04 09:20:52,620 - INFO - Scrapping Data from page 20....
+2023-07-04 09:20:52,620 - INFO - Products found on page 20: 40
+
+2023-07-04 09:21:07,881 - INFO - Scrapping Data from page 21....
+2023-07-04 09:21:07,881 - INFO - Products found on page 21: 40
+
+2023-07-04 09:21:21,100 - INFO - Scrapping Data from page 22....
+2023-07-04 09:21:21,100 - INFO - Products found on page 22: 40
+
+2023-07-04 09:21:31,967 - INFO - Scrapping Data from page 23....
+2023-07-04 09:21:31,967 - INFO - Products found on page 23: 14
+
+2023-07-04 09:21:33,826 - INFO - Finishing the scrapping....
+
+2023-07-04 09:21:33,826 - INFO - Total products found: 894
+
+2023-07-04 09:21:33,835 - ERROR - An error occurred: All arrays must be of the same length
+2023-07-04 09:26:20,030 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 09:26:20,053 - INFO - Scrapping Data from page 1....
+2023-07-04 09:26:20,053 - INFO - Products found on page 1: 40
+
+2023-07-04 09:26:20,107 - ERROR - An error occurred: 'str' object has no attribute 'text'
+2023-07-04 09:28:11,468 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 09:28:11,829 - INFO - Scrapping Data from page 1....
+2023-07-04 09:28:11,829 - INFO - Products found on page 1: 40
+
+2023-07-04 09:28:26,061 - INFO - Scrapping Data from page 2....
+2023-07-04 09:28:26,061 - INFO - Products found on page 2: 40
+
+2023-07-04 09:28:40,900 - INFO - Scrapping Data from page 3....
+2023-07-04 09:28:40,900 - INFO - Products found on page 3: 40
+
+2023-07-04 09:28:56,918 - INFO - Scrapping Data from page 4....
+2023-07-04 09:28:56,918 - INFO - Products found on page 4: 40
+
+2023-07-04 09:29:10,948 - INFO - Scrapping Data from page 5....
+2023-07-04 09:29:10,948 - INFO - Products found on page 5: 40
+
+2023-07-04 09:29:25,183 - INFO - Scrapping Data from page 6....
+2023-07-04 09:29:25,183 - INFO - Products found on page 6: 40
+
+2023-07-04 09:29:37,252 - INFO - Scrapping Data from page 7....
+2023-07-04 09:29:37,252 - INFO - Products found on page 7: 40
+
+2023-07-04 09:29:49,260 - INFO - Scrapping Data from page 8....
+2023-07-04 09:29:49,260 - INFO - Products found on page 8: 40
+
+2023-07-04 09:30:00,739 - INFO - Scrapping Data from page 9....
+2023-07-04 09:30:00,739 - INFO - Products found on page 9: 40
+
+2023-07-04 09:30:11,649 - INFO - Scrapping Data from page 10....
+2023-07-04 09:30:11,649 - INFO - Products found on page 10: 40
+
+2023-07-04 09:30:21,538 - INFO - Scrapping Data from page 11....
+2023-07-04 09:30:21,538 - INFO - Products found on page 11: 40
+
+2023-07-04 09:30:32,957 - INFO - Scrapping Data from page 12....
+2023-07-04 09:30:32,961 - INFO - Products found on page 12: 40
+
+2023-07-04 09:30:44,132 - INFO - Scrapping Data from page 13....
+2023-07-04 09:30:44,132 - INFO - Products found on page 13: 40
+
+2023-07-04 09:30:55,094 - INFO - Scrapping Data from page 14....
+2023-07-04 09:30:55,096 - INFO - Products found on page 14: 40
+
+2023-07-04 09:31:06,219 - INFO - Scrapping Data from page 15....
+2023-07-04 09:31:06,219 - INFO - Products found on page 15: 40
+
+2023-07-04 09:31:16,964 - INFO - Scrapping Data from page 16....
+2023-07-04 09:31:16,964 - INFO - Products found on page 16: 40
+
+2023-07-04 09:31:27,161 - INFO - Scrapping Data from page 17....
+2023-07-04 09:31:27,161 - INFO - Products found on page 17: 40
+
+2023-07-04 09:31:38,048 - INFO - Scrapping Data from page 18....
+2023-07-04 09:31:38,049 - INFO - Products found on page 18: 40
+
+2023-07-04 09:31:51,590 - INFO - Scrapping Data from page 19....
+2023-07-04 09:31:51,590 - INFO - Products found on page 19: 40
+
+2023-07-04 09:32:06,001 - INFO - Scrapping Data from page 20....
+2023-07-04 09:32:06,002 - INFO - Products found on page 20: 40
+
+2023-07-04 09:32:20,221 - INFO - Scrapping Data from page 21....
+2023-07-04 09:32:20,221 - INFO - Products found on page 21: 40
+
+2023-07-04 09:32:34,026 - INFO - Scrapping Data from page 22....
+2023-07-04 09:32:34,028 - INFO - Products found on page 22: 40
+
+2023-07-04 09:32:45,037 - INFO - Scrapping Data from page 23....
+2023-07-04 09:32:45,037 - INFO - Products found on page 23: 14
+
+2023-07-04 09:32:47,038 - INFO - Finishing the scrapping....
+
+2023-07-04 09:32:47,038 - INFO - Total products found: 894
+
+2023-07-04 09:39:13,604 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 09:39:13,626 - INFO - Scrapping Data from page 1....
+2023-07-04 09:39:13,626 - INFO - Products found on page 1: 40
+
+2023-07-04 09:39:28,389 - INFO - Scrapping Data from page 2....
+2023-07-04 09:39:28,389 - INFO - Products found on page 2: 40
+
+2023-07-04 09:39:44,277 - INFO - Scrapping Data from page 3....
+2023-07-04 09:39:44,277 - INFO - Products found on page 3: 40
+
+2023-07-04 09:40:00,587 - INFO - Scrapping Data from page 4....
+2023-07-04 09:40:00,587 - INFO - Products found on page 4: 40
+
+2023-07-04 09:40:15,804 - INFO - Scrapping Data from page 5....
+2023-07-04 09:40:15,804 - INFO - Products found on page 5: 40
+
+2023-07-04 09:40:29,493 - INFO - Scrapping Data from page 6....
+2023-07-04 09:40:29,493 - INFO - Products found on page 6: 40
+
+2023-07-04 09:40:42,986 - INFO - Scrapping Data from page 7....
+2023-07-04 09:40:42,986 - INFO - Products found on page 7: 40
+
+2023-07-04 09:40:56,230 - INFO - Scrapping Data from page 8....
+2023-07-04 09:40:56,230 - INFO - Products found on page 8: 40
+
+2023-07-04 09:41:08,333 - INFO - Scrapping Data from page 9....
+2023-07-04 09:41:08,334 - INFO - Products found on page 9: 40
+
+2023-07-04 09:41:20,321 - INFO - Scrapping Data from page 10....
+2023-07-04 09:41:20,321 - INFO - Products found on page 10: 40
+
+2023-07-04 09:41:31,347 - INFO - Scrapping Data from page 11....
+2023-07-04 09:41:31,347 - INFO - Products found on page 11: 40
+
+2023-07-04 09:41:42,661 - INFO - Scrapping Data from page 12....
+2023-07-04 09:41:42,661 - INFO - Products found on page 12: 40
+
+2023-07-04 09:41:53,488 - INFO - Scrapping Data from page 13....
+2023-07-04 09:41:53,489 - INFO - Products found on page 13: 40
+
+2023-07-04 09:42:05,309 - INFO - Scrapping Data from page 14....
+2023-07-04 09:42:05,309 - INFO - Products found on page 14: 40
+
+2023-07-04 09:42:16,181 - INFO - Scrapping Data from page 15....
+2023-07-04 09:42:16,181 - INFO - Products found on page 15: 40
+
+2023-07-04 09:42:26,854 - INFO - Scrapping Data from page 16....
+2023-07-04 09:42:26,854 - INFO - Products found on page 16: 40
+
+2023-07-04 09:42:41,130 - INFO - Scrapping Data from page 17....
+2023-07-04 09:42:41,130 - INFO - Products found on page 17: 40
+
+2023-07-04 09:42:52,009 - INFO - Scrapping Data from page 18....
+2023-07-04 09:42:52,009 - INFO - Products found on page 18: 40
+
+2023-07-04 09:43:06,193 - INFO - Scrapping Data from page 19....
+2023-07-04 09:43:06,193 - INFO - Products found on page 19: 40
+
+2023-07-04 09:43:21,130 - INFO - Scrapping Data from page 20....
+2023-07-04 09:43:21,131 - INFO - Products found on page 20: 40
+
+2023-07-04 09:43:35,839 - INFO - Scrapping Data from page 21....
+2023-07-04 09:43:35,841 - INFO - Products found on page 21: 40
+
+2023-07-04 09:43:49,413 - INFO - Scrapping Data from page 22....
+2023-07-04 09:43:49,413 - INFO - Products found on page 22: 40
+
+2023-07-04 09:44:00,514 - INFO - Scrapping Data from page 23....
+2023-07-04 09:44:00,514 - INFO - Products found on page 23: 14
+
+2023-07-04 09:44:02,464 - INFO - Finishing the scrapping....
+
+2023-07-04 09:44:02,464 - INFO - Total products found: 894
+
+2023-07-04 11:16:51,596 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 11:16:51,624 - INFO - Scrapping Data from page 1....
+2023-07-04 11:16:51,625 - INFO - Products found on page 1: 40
+
+2023-07-04 11:17:05,609 - INFO - Scrapping Data from page 2....
+2023-07-04 11:17:05,609 - INFO - Products found on page 2: 40
+
+2023-07-04 11:17:19,121 - INFO - Scrapping Data from page 3....
+2023-07-04 11:17:19,121 - INFO - Products found on page 3: 40
+
+2023-07-04 11:17:33,280 - INFO - Scrapping Data from page 4....
+2023-07-04 11:17:33,280 - INFO - Products found on page 4: 40
+
+2023-07-04 11:17:46,380 - INFO - Scrapping Data from page 5....
+2023-07-04 11:17:46,380 - INFO - Products found on page 5: 40
+
+2023-07-04 11:17:59,500 - INFO - Scrapping Data from page 6....
+2023-07-04 11:17:59,500 - INFO - Products found on page 6: 40
+
+2023-07-04 11:18:11,312 - INFO - Scrapping Data from page 7....
+2023-07-04 11:18:11,312 - INFO - Products found on page 7: 40
+
+2023-07-04 11:18:23,140 - INFO - Scrapping Data from page 8....
+2023-07-04 11:18:23,140 - INFO - Products found on page 8: 40
+
+2023-07-04 11:18:34,250 - INFO - Scrapping Data from page 9....
+2023-07-04 11:18:34,250 - INFO - Products found on page 9: 40
+
+2023-07-04 11:18:44,800 - INFO - Scrapping Data from page 10....
+2023-07-04 11:18:44,800 - INFO - Products found on page 10: 40
+
+2023-07-04 11:18:54,880 - INFO - Scrapping Data from page 11....
+2023-07-04 11:18:54,880 - INFO - Products found on page 11: 40
+
+2023-07-04 11:19:04,770 - INFO - Scrapping Data from page 12....
+2023-07-04 11:19:04,770 - INFO - Products found on page 12: 40
+
+2023-07-04 11:19:15,300 - INFO - Scrapping Data from page 13....
+2023-07-04 11:19:15,300 - INFO - Products found on page 13: 40
+
+2023-07-04 11:19:25,260 - INFO - Scrapping Data from page 14....
+2023-07-04 11:19:25,260 - INFO - Products found on page 14: 40
+
+2023-07-04 11:19:35,168 - INFO - Scrapping Data from page 15....
+2023-07-04 11:19:35,168 - INFO - Products found on page 15: 40
+
+2023-07-04 11:19:45,070 - INFO - Scrapping Data from page 16....
+2023-07-04 11:19:45,070 - INFO - Products found on page 16: 40
+
+2023-07-04 11:19:55,040 - INFO - Scrapping Data from page 17....
+2023-07-04 11:19:55,040 - INFO - Products found on page 17: 40
+
+2023-07-04 11:20:05,280 - INFO - Scrapping Data from page 18....
+2023-07-04 11:20:05,280 - INFO - Products found on page 18: 40
+
+2023-07-04 11:20:18,372 - INFO - Scrapping Data from page 19....
+2023-07-04 11:20:18,372 - INFO - Products found on page 19: 40
+
+2023-07-04 11:20:32,710 - INFO - Scrapping Data from page 20....
+2023-07-04 11:20:32,710 - INFO - Products found on page 20: 40
+
+2023-07-04 11:20:46,699 - INFO - Scrapping Data from page 21....
+2023-07-04 11:20:46,699 - INFO - Products found on page 21: 40
+
+2023-07-04 11:20:59,020 - INFO - Scrapping Data from page 22....
+2023-07-04 11:20:59,021 - INFO - Products found on page 22: 40
+
+2023-07-04 11:21:09,225 - INFO - Scrapping Data from page 23....
+2023-07-04 11:21:09,225 - INFO - Products found on page 23: 12
+
+2023-07-04 11:21:10,847 - INFO - Finishing the scrapping....
+
+2023-07-04 11:21:10,847 - INFO - Total products found: 892
+
+2023-07-04 11:21:10,956 - INFO - Connecting to the database......
+
+2023-07-04 11:21:10,960 - INFO - Database connected successfully.
+
+2023-07-04 11:21:10,960 - INFO - Storing data in database......
+
+2023-07-04 11:21:10,960 - ERROR - An error occurred: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',laptop_rating, laptop_reviews) VALUES ('Dell 3189 Convertible Chromebook 11.6 i' at line 1
+2023-07-04 11:24:47,793 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 11:24:47,822 - INFO - Scrapping Data from page 1....
+2023-07-04 11:24:47,822 - INFO - Products found on page 1: 40
+
+2023-07-04 11:25:01,658 - INFO - Scrapping Data from page 2....
+2023-07-04 11:25:01,658 - INFO - Products found on page 2: 40
+
+2023-07-04 11:25:15,152 - INFO - Scrapping Data from page 3....
+2023-07-04 11:25:15,152 - INFO - Products found on page 3: 40
+
+2023-07-04 11:25:29,479 - INFO - Scrapping Data from page 4....
+2023-07-04 11:25:29,480 - INFO - Products found on page 4: 40
+
+2023-07-04 11:25:42,460 - INFO - Scrapping Data from page 5....
+2023-07-04 11:25:42,460 - INFO - Products found on page 5: 40
+
+2023-07-04 11:25:55,029 - INFO - Scrapping Data from page 6....
+2023-07-04 11:25:55,029 - INFO - Products found on page 6: 40
+
+2023-07-04 11:26:08,888 - INFO - Scrapping Data from page 7....
+2023-07-04 11:26:08,888 - INFO - Products found on page 7: 40
+
+2023-07-04 11:26:20,980 - INFO - Scrapping Data from page 8....
+2023-07-04 11:26:20,980 - INFO - Products found on page 8: 40
+
+2023-07-04 11:26:32,496 - INFO - Scrapping Data from page 9....
+2023-07-04 11:26:32,496 - INFO - Products found on page 9: 40
+
+2023-07-04 11:26:43,020 - INFO - Scrapping Data from page 10....
+2023-07-04 11:26:43,020 - INFO - Products found on page 10: 40
+
+2023-07-04 11:26:53,211 - INFO - Scrapping Data from page 11....
+2023-07-04 11:26:53,212 - INFO - Products found on page 11: 40
+
+2023-07-04 11:27:03,192 - INFO - Scrapping Data from page 12....
+2023-07-04 11:27:03,192 - INFO - Products found on page 12: 40
+
+2023-07-04 11:27:13,302 - INFO - Scrapping Data from page 13....
+2023-07-04 11:27:13,302 - INFO - Products found on page 13: 40
+
+2023-07-04 11:27:23,552 - INFO - Scrapping Data from page 14....
+2023-07-04 11:27:23,552 - INFO - Products found on page 14: 40
+
+2023-07-04 11:27:33,964 - INFO - Scrapping Data from page 15....
+2023-07-04 11:27:33,965 - INFO - Products found on page 15: 40
+
+2023-07-04 11:27:44,393 - INFO - Scrapping Data from page 16....
+2023-07-04 11:27:44,394 - INFO - Products found on page 16: 40
+
+2023-07-04 11:27:54,650 - INFO - Scrapping Data from page 17....
+2023-07-04 11:27:54,650 - INFO - Products found on page 17: 40
+
+2023-07-04 11:28:05,419 - INFO - Scrapping Data from page 18....
+2023-07-04 11:28:05,419 - INFO - Products found on page 18: 40
+
+2023-07-04 11:28:18,508 - INFO - Scrapping Data from page 19....
+2023-07-04 11:28:18,508 - INFO - Products found on page 19: 40
+
+2023-07-04 11:28:32,325 - INFO - Scrapping Data from page 20....
+2023-07-04 11:28:32,325 - INFO - Products found on page 20: 40
+
+2023-07-04 11:28:46,723 - INFO - Scrapping Data from page 21....
+2023-07-04 11:28:46,724 - INFO - Products found on page 21: 40
+
+2023-07-04 11:28:58,334 - INFO - Scrapping Data from page 22....
+2023-07-04 11:28:58,334 - INFO - Products found on page 22: 40
+
+2023-07-04 11:29:14,768 - INFO - Scrapping Data from page 23....
+2023-07-04 11:29:14,769 - INFO - Products found on page 23: 12
+
+2023-07-04 11:29:16,233 - INFO - Finishing the scrapping....
+
+2023-07-04 11:29:16,233 - INFO - Total products found: 892
+
+2023-07-04 11:29:16,249 - INFO - Connecting to the database......
+
+2023-07-04 11:29:16,249 - INFO - Database connected successfully.
+
+2023-07-04 11:29:16,249 - INFO - Storing data in database......
+
+2023-07-04 11:29:16,751 - INFO - Data stored in Database Successfully.
+2023-07-04 11:36:12,900 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 11:36:12,920 - INFO - Scrapping Data from page 1....
+2023-07-04 11:36:12,920 - INFO - Products found on page 1: 40
+
+2023-07-04 11:36:26,866 - INFO - Scrapping Data from page 2....
+2023-07-04 11:36:26,866 - INFO - Products found on page 2: 40
+
+2023-07-04 11:36:41,834 - INFO - Scrapping Data from page 3....
+2023-07-04 11:36:41,834 - INFO - Products found on page 3: 40
+
+2023-07-04 11:36:56,643 - INFO - Scrapping Data from page 4....
+2023-07-04 11:36:56,644 - INFO - Products found on page 4: 40
+
+2023-07-04 11:37:10,002 - INFO - Scrapping Data from page 5....
+2023-07-04 11:37:10,003 - INFO - Products found on page 5: 40
+
+2023-07-04 11:37:11,891 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005CA813+48355]
+	(No symbol) [0x0055C4B1]
+	(No symbol) [0x00465358]
+	(No symbol) [0x0044D293]
+	(No symbol) [0x004AE37B]
+	(No symbol) [0x004BC473]
+	(No symbol) [0x004AA536]
+	(No symbol) [0x004882DC]
+	(No symbol) [0x004893DD]
+	GetHandleVerifier [0x0082AABD+2539405]
+	GetHandleVerifier [0x0086A78F+2800735]
+	GetHandleVerifier [0x0086456C+2775612]
+	GetHandleVerifier [0x006551E0+616112]
+	(No symbol) [0x00565F8C]
+	(No symbol) [0x00562328]
+	(No symbol) [0x0056240B]
+	(No symbol) [0x00554FF7]
+	BaseThreadInitThunk [0x76AD7BA9+25]
+	RtlInitializeExceptionChain [0x7728BB3B+107]
+	RtlClearBits [0x7728BABF+191]
+
+2023-07-04 11:39:10,347 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 11:39:10,396 - INFO - Scrapping Data from page 1....
+2023-07-04 11:39:10,397 - INFO - Products found on page 1: 40
+
+2023-07-04 11:39:24,867 - INFO - Scrapping Data from page 2....
+2023-07-04 11:39:24,868 - INFO - Products found on page 2: 40
+
+2023-07-04 11:39:38,968 - INFO - Scrapping Data from page 3....
+2023-07-04 11:39:38,968 - INFO - Products found on page 3: 40
+
+2023-07-04 11:39:53,046 - INFO - Scrapping Data from page 4....
+2023-07-04 11:39:53,046 - INFO - Products found on page 4: 40
+
+2023-07-04 11:40:06,241 - INFO - Scrapping Data from page 5....
+2023-07-04 11:40:06,241 - INFO - Products found on page 5: 40
+
+2023-07-04 11:40:18,670 - INFO - Scrapping Data from page 6....
+2023-07-04 11:40:18,670 - INFO - Products found on page 6: 40
+
+2023-07-04 11:40:30,606 - INFO - Scrapping Data from page 7....
+2023-07-04 11:40:30,606 - INFO - Products found on page 7: 40
+
+2023-07-04 11:40:44,685 - INFO - Scrapping Data from page 8....
+2023-07-04 11:40:44,685 - INFO - Products found on page 8: 40
+
+2023-07-04 11:40:56,186 - INFO - Scrapping Data from page 9....
+2023-07-04 11:40:56,186 - INFO - Products found on page 9: 40
+
+2023-07-04 11:41:06,892 - INFO - Scrapping Data from page 10....
+2023-07-04 11:41:06,892 - INFO - Products found on page 10: 40
+
+2023-07-04 11:41:19,461 - INFO - Scrapping Data from page 11....
+2023-07-04 11:41:19,461 - INFO - Products found on page 11: 40
+
+2023-07-04 11:41:29,592 - INFO - Scrapping Data from page 12....
+2023-07-04 11:41:29,592 - INFO - Products found on page 12: 40
+
+2023-07-04 11:41:39,886 - INFO - Scrapping Data from page 13....
+2023-07-04 11:41:39,886 - INFO - Products found on page 13: 40
+
+2023-07-04 11:41:52,117 - INFO - Scrapping Data from page 14....
+2023-07-04 11:41:52,117 - INFO - Products found on page 14: 40
+
+2023-07-04 11:42:06,509 - INFO - Scrapping Data from page 15....
+2023-07-04 11:42:06,509 - INFO - Products found on page 15: 40
+
+2023-07-04 11:42:16,728 - INFO - Scrapping Data from page 16....
+2023-07-04 11:42:16,728 - INFO - Products found on page 16: 40
+
+2023-07-04 11:42:26,954 - INFO - Scrapping Data from page 17....
+2023-07-04 11:42:26,954 - INFO - Products found on page 17: 40
+
+2023-07-04 11:42:40,709 - INFO - Scrapping Data from page 18....
+2023-07-04 11:42:40,709 - INFO - Products found on page 18: 40
+
+2023-07-04 11:42:58,318 - INFO - Scrapping Data from page 19....
+2023-07-04 11:42:58,319 - INFO - Products found on page 19: 40
+
+2023-07-04 11:43:14,510 - INFO - Scrapping Data from page 20....
+2023-07-04 11:43:14,510 - INFO - Products found on page 20: 40
+
+2023-07-04 11:43:30,233 - INFO - Scrapping Data from page 21....
+2023-07-04 11:43:30,233 - INFO - Products found on page 21: 40
+
+2023-07-04 11:43:42,714 - INFO - Scrapping Data from page 22....
+2023-07-04 11:43:42,714 - INFO - Products found on page 22: 40
+
+2023-07-04 11:43:53,600 - INFO - Scrapping Data from page 23....
+2023-07-04 11:43:53,600 - INFO - Products found on page 23: 12
+
+2023-07-04 11:43:55,257 - INFO - Finishing the scrapping....
+
+2023-07-04 11:43:55,257 - INFO - Total products found: 892
+
+2023-07-04 11:43:55,278 - INFO - Connecting to the database......
+
+2023-07-04 11:43:55,280 - INFO - Database connected successfully.
+
+2023-07-04 11:43:55,280 - INFO - Storing data in database......
+
+2023-07-04 11:43:55,738 - INFO - Data stored in Database Successfully.
+2023-07-04 11:52:03,516 - INFO - Laptops Data Scrapping Started....
+
+2023-07-04 11:52:03,531 - INFO - Scrapping Data from page 1....
+2023-07-04 11:52:03,547 - INFO - Products found on page 1: 40
+
+2023-07-04 11:52:21,096 - INFO - Scrapping Data from page 2....
+2023-07-04 11:52:21,096 - INFO - Products found on page 2: 40
+
+2023-07-04 11:52:35,887 - INFO - Scrapping Data from page 3....
+2023-07-04 11:52:35,887 - INFO - Products found on page 3: 40
+
+2023-07-04 11:52:50,747 - INFO - Scrapping Data from page 4....
+2023-07-04 11:52:50,747 - INFO - Products found on page 4: 40
+
+2023-07-04 11:53:04,578 - INFO - Scrapping Data from page 5....
+2023-07-04 11:53:04,578 - INFO - Products found on page 5: 40
+
+2023-07-04 11:53:17,907 - INFO - Scrapping Data from page 6....
+2023-07-04 11:53:17,907 - INFO - Products found on page 6: 40
+
+2023-07-04 11:53:33,167 - INFO - Scrapping Data from page 7....
+2023-07-04 11:53:33,167 - INFO - Products found on page 7: 40
+
+2023-07-04 11:53:44,847 - INFO - Scrapping Data from page 8....
+2023-07-04 11:53:44,847 - INFO - Products found on page 8: 40
+
+2023-07-04 11:53:55,702 - INFO - Scrapping Data from page 9....
+2023-07-04 11:53:55,702 - INFO - Products found on page 9: 40
+
+2023-07-04 11:54:09,377 - INFO - Scrapping Data from page 10....
+2023-07-04 11:54:09,377 - INFO - Products found on page 10: 40
+
+2023-07-04 11:54:21,667 - INFO - Scrapping Data from page 11....
+2023-07-04 11:54:21,667 - INFO - Products found on page 11: 40
+
+2023-07-04 11:54:32,063 - INFO - Scrapping Data from page 12....
+2023-07-04 11:54:32,063 - INFO - Products found on page 12: 40
+
+2023-07-04 11:54:42,402 - INFO - Scrapping Data from page 13....
+2023-07-04 11:54:42,402 - INFO - Products found on page 13: 40
+
+2023-07-04 11:54:52,326 - INFO - Scrapping Data from page 14....
+2023-07-04 11:54:52,326 - INFO - Products found on page 14: 40
+
+2023-07-04 11:55:02,238 - INFO - Scrapping Data from page 15....
+2023-07-04 11:55:02,238 - INFO - Products found on page 15: 40
+
+2023-07-04 11:55:12,567 - INFO - Scrapping Data from page 16....
+2023-07-04 11:55:12,567 - INFO - Products found on page 16: 40
+
+2023-07-04 11:55:22,397 - INFO - Scrapping Data from page 17....
+2023-07-04 11:55:22,397 - INFO - Products found on page 17: 40
+
+2023-07-04 11:55:33,338 - INFO - Scrapping Data from page 18....
+2023-07-04 11:55:33,338 - INFO - Products found on page 18: 40
+
+2023-07-04 11:55:47,135 - INFO - Scrapping Data from page 19....
+2023-07-04 11:55:47,135 - INFO - Products found on page 19: 40
+
+2023-07-04 11:56:15,457 - INFO - Scrapping Data from page 20....
+2023-07-04 11:56:15,457 - INFO - Products found on page 20: 40
+
+2023-07-04 11:56:29,868 - INFO - Scrapping Data from page 21....
+2023-07-04 11:56:29,868 - INFO - Products found on page 21: 40
+
+2023-07-04 11:56:42,867 - INFO - Scrapping Data from page 22....
+2023-07-04 11:56:42,867 - INFO - Products found on page 22: 40
+
+2023-07-05 09:44:13,039 - ERROR - An error occurred: Message: unknown error: cannot determine loading status
+from no such window
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00CAA813+48355]
+	(No symbol) [0x00C3C4B1]
+	(No symbol) [0x00B45220]
+	(No symbol) [0x00B388E2]
+	(No symbol) [0x00B37138]
+	(No symbol) [0x00B377AA]
+	(No symbol) [0x00B408A9]
+	(No symbol) [0x00B4C668]
+	(No symbol) [0x00B4F566]
+	(No symbol) [0x00B37BC3]
+	(No symbol) [0x00B4C37A]
+	(No symbol) [0x00B9C87D]
+	(No symbol) [0x00B8A536]
+	(No symbol) [0x00B682DC]
+	(No symbol) [0x00B693DD]
+	GetHandleVerifier [0x00F0AABD+2539405]
+	GetHandleVerifier [0x00F4A78F+2800735]
+	GetHandleVerifier [0x00F4456C+2775612]
+	GetHandleVerifier [0x00D351E0+616112]
+	(No symbol) [0x00C45F8C]
+	(No symbol) [0x00C42328]
+	(No symbol) [0x00C4240B]
+	(No symbol) [0x00C34FF7]
+	BaseThreadInitThunk [0x754F7BA9+25]
+	RtlInitializeExceptionChain [0x7729BB3B+107]
+	RtlClearBits [0x7729BABF+191]
+
+2023-07-05 09:46:18,235 - INFO - Laptops Data Scrapping Started....
+
+2023-07-05 09:46:18,269 - INFO - Scrapping Data from page 1....
+2023-07-05 09:46:18,270 - INFO - Products found on page 1: 40
+
+2023-07-05 09:46:31,447 - INFO - Scrapping Data from page 2....
+2023-07-05 09:46:31,447 - INFO - Products found on page 2: 40
+
+2023-07-05 09:46:44,586 - INFO - Scrapping Data from page 3....
+2023-07-05 09:46:44,586 - INFO - Products found on page 3: 40
+
+2023-07-05 09:46:57,669 - INFO - Scrapping Data from page 4....
+2023-07-05 09:46:57,670 - INFO - Products found on page 4: 40
+
+2023-07-05 09:47:10,715 - INFO - Scrapping Data from page 5....
+2023-07-05 09:47:10,715 - INFO - Products found on page 5: 40
+
+2023-07-05 09:47:23,100 - INFO - Scrapping Data from page 6....
+2023-07-05 09:47:23,100 - INFO - Products found on page 6: 40
+
+2023-07-05 09:47:35,445 - INFO - Scrapping Data from page 7....
+2023-07-05 09:47:35,452 - INFO - Products found on page 7: 40
+
+2023-07-05 09:47:48,394 - INFO - Scrapping Data from page 8....
+2023-07-05 09:47:48,394 - INFO - Products found on page 8: 40
+
+2023-07-05 09:48:00,602 - INFO - Scrapping Data from page 9....
+2023-07-05 09:48:00,602 - INFO - Products found on page 9: 40
+
+2023-07-05 09:48:12,460 - INFO - Scrapping Data from page 10....
+2023-07-05 09:48:12,460 - INFO - Products found on page 10: 40
+
+2023-07-05 09:48:24,628 - INFO - Scrapping Data from page 11....
+2023-07-05 09:48:24,628 - INFO - Products found on page 11: 40
+
+2023-07-05 09:48:36,987 - INFO - Scrapping Data from page 12....
+2023-07-05 09:48:36,987 - INFO - Products found on page 12: 40
+
+2023-07-05 09:48:49,046 - INFO - Scrapping Data from page 13....
+2023-07-05 09:48:49,046 - INFO - Products found on page 13: 40
+
+2023-07-05 09:49:01,377 - INFO - Scrapping Data from page 14....
+2023-07-05 09:49:01,377 - INFO - Products found on page 14: 40
+
+2023-07-05 09:49:13,482 - INFO - Scrapping Data from page 15....
+2023-07-05 09:49:13,482 - INFO - Products found on page 15: 40
+
+2023-07-05 09:49:25,786 - INFO - Scrapping Data from page 16....
+2023-07-05 09:49:25,786 - INFO - Products found on page 16: 40
+
+2023-07-05 09:49:37,891 - INFO - Scrapping Data from page 17....
+2023-07-05 09:49:37,891 - INFO - Products found on page 17: 40
+
+2023-07-05 09:49:49,600 - INFO - Scrapping Data from page 18....
+2023-07-05 09:49:49,600 - INFO - Products found on page 18: 40
+
+2023-07-05 09:50:03,502 - INFO - Scrapping Data from page 19....
+2023-07-05 09:50:03,502 - INFO - Products found on page 19: 40
+
+2023-07-05 09:50:17,282 - INFO - Scrapping Data from page 20....
+2023-07-05 09:50:17,282 - INFO - Products found on page 20: 40
+
+2023-07-05 09:50:33,617 - INFO - Scrapping Data from page 21....
+2023-07-05 09:50:33,617 - INFO - Products found on page 21: 40
+
+2023-07-05 09:50:49,504 - INFO - Scrapping Data from page 22....
+2023-07-05 09:50:49,504 - INFO - Products found on page 22: 40
+
+2023-07-05 09:51:00,521 - INFO - Scrapping Data from page 23....
+2023-07-05 09:51:00,521 - INFO - Products found on page 23: 11
+
+2023-07-05 09:51:02,161 - INFO - Finishing the scrapping....
+
+2023-07-05 09:51:02,162 - INFO - Total products found: 891
+
+2023-07-05 09:51:02,321 - INFO - Connecting to the database......
+
+2023-07-05 09:51:02,321 - INFO - Database connected successfully.
+
+2023-07-05 09:51:02,321 - INFO - Storing data in database......
+
+2023-07-05 09:51:02,345 - ERROR - An error occurred: 1264 (22003): Out of range value for column 'laptop_rating' at row 1
+2023-07-05 09:53:05,628 - INFO - Laptops Data Scrapping Started....
+
+2023-07-05 09:53:05,661 - INFO - Scrapping Data from page 1....
+2023-07-05 09:53:05,661 - INFO - Products found on page 1: 40
+
+2023-07-05 09:53:19,350 - INFO - Scrapping Data from page 2....
+2023-07-05 09:53:19,350 - INFO - Products found on page 2: 40
+
+2023-07-05 09:53:32,591 - INFO - Scrapping Data from page 3....
+2023-07-05 09:53:32,591 - INFO - Products found on page 3: 40
+
+2023-07-05 09:53:45,805 - INFO - Scrapping Data from page 4....
+2023-07-05 09:53:45,806 - INFO - Products found on page 4: 40
+
+2023-07-05 09:53:58,336 - INFO - Scrapping Data from page 5....
+2023-07-05 09:53:58,336 - INFO - Products found on page 5: 40
+
+2023-07-05 09:54:10,786 - INFO - Scrapping Data from page 6....
+2023-07-05 09:54:10,786 - INFO - Products found on page 6: 40
+
+2023-07-05 09:54:23,437 - INFO - Scrapping Data from page 7....
+2023-07-05 09:54:23,437 - INFO - Products found on page 7: 40
+
+2023-07-05 09:54:36,661 - INFO - Scrapping Data from page 8....
+2023-07-05 09:54:36,661 - INFO - Products found on page 8: 40
+
+2023-07-05 09:54:49,916 - INFO - Scrapping Data from page 9....
+2023-07-05 09:54:49,916 - INFO - Products found on page 9: 40
+
+2023-07-05 09:55:02,228 - INFO - Scrapping Data from page 10....
+2023-07-05 09:55:02,228 - INFO - Products found on page 10: 40
+
+2023-07-05 09:55:14,742 - INFO - Scrapping Data from page 11....
+2023-07-05 09:55:14,742 - INFO - Products found on page 11: 40
+
+2023-07-05 09:55:27,499 - INFO - Scrapping Data from page 12....
+2023-07-05 09:55:27,499 - INFO - Products found on page 12: 40
+
+2023-07-05 09:55:39,994 - INFO - Scrapping Data from page 13....
+2023-07-05 09:55:39,994 - INFO - Products found on page 13: 40
+
+2023-07-05 09:55:53,051 - INFO - Scrapping Data from page 14....
+2023-07-05 09:55:53,051 - INFO - Products found on page 14: 40
+
+2023-07-05 09:56:05,575 - INFO - Scrapping Data from page 15....
+2023-07-05 09:56:05,575 - INFO - Products found on page 15: 40
+
+2023-07-05 09:56:18,386 - INFO - Scrapping Data from page 16....
+2023-07-05 09:56:18,386 - INFO - Products found on page 16: 40
+
+2023-07-05 09:56:30,853 - INFO - Scrapping Data from page 17....
+2023-07-05 09:56:30,853 - INFO - Products found on page 17: 40
+
+2023-07-05 09:56:42,691 - INFO - Scrapping Data from page 18....
+2023-07-05 09:56:42,691 - INFO - Products found on page 18: 40
+
+2023-07-05 09:56:56,799 - INFO - Scrapping Data from page 19....
+2023-07-05 09:56:56,799 - INFO - Products found on page 19: 40
+
+2023-07-05 09:57:11,088 - INFO - Scrapping Data from page 20....
+2023-07-05 09:57:11,088 - INFO - Products found on page 20: 40
+
+2023-07-05 09:57:27,606 - INFO - Scrapping Data from page 21....
+2023-07-05 09:57:27,606 - INFO - Products found on page 21: 40
+
+2023-07-05 09:57:43,246 - INFO - Scrapping Data from page 22....
+2023-07-05 09:57:43,246 - INFO - Products found on page 22: 40
+
+2023-07-05 09:57:54,212 - INFO - Scrapping Data from page 23....
+2023-07-05 09:57:54,212 - INFO - Products found on page 23: 11
+
+2023-07-05 09:57:55,964 - INFO - Finishing the scrapping....
+
+2023-07-05 09:57:55,966 - INFO - Total products found: 891
+
+2023-07-05 09:57:55,986 - INFO - Connecting to the database......
+
+2023-07-05 09:57:55,986 - INFO - Database connected successfully.
+
+2023-07-05 09:57:55,986 - INFO - Storing data in database......
+
+2023-07-05 09:57:56,490 - INFO - Data stored in Database Successfully.
+2023-07-06 08:52:29,158 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 08:52:29,263 - INFO - Scrapping Data from page 1....
+2023-07-06 08:52:29,263 - INFO - Products found on page 1: 40
+
+2023-07-06 08:52:43,024 - INFO - Scrapping Data from page 2....
+2023-07-06 08:52:43,024 - INFO - Products found on page 2: 40
+
+2023-07-06 08:52:55,483 - INFO - Scrapping Data from page 3....
+2023-07-06 08:52:55,483 - INFO - Products found on page 3: 40
+
+2023-07-06 08:53:08,492 - INFO - Scrapping Data from page 4....
+2023-07-06 08:53:08,492 - INFO - Products found on page 4: 40
+
+2023-07-06 08:53:20,679 - INFO - Scrapping Data from page 5....
+2023-07-06 08:53:20,680 - INFO - Products found on page 5: 40
+
+2023-07-06 08:53:33,349 - INFO - Scrapping Data from page 6....
+2023-07-06 08:53:33,349 - INFO - Products found on page 6: 40
+
+2023-07-06 08:53:45,032 - INFO - Scrapping Data from page 7....
+2023-07-06 08:53:45,032 - INFO - Products found on page 7: 40
+
+2023-07-06 08:53:57,177 - INFO - Scrapping Data from page 8....
+2023-07-06 08:53:57,177 - INFO - Products found on page 8: 40
+
+2023-07-06 08:54:08,463 - INFO - Scrapping Data from page 9....
+2023-07-06 08:54:08,463 - INFO - Products found on page 9: 40
+
+2023-07-06 08:54:19,852 - INFO - Scrapping Data from page 10....
+2023-07-06 08:54:19,852 - INFO - Products found on page 10: 40
+
+2023-07-06 08:54:31,901 - INFO - Scrapping Data from page 11....
+2023-07-06 08:54:31,901 - INFO - Products found on page 11: 40
+
+2023-07-06 08:54:44,966 - INFO - Scrapping Data from page 12....
+2023-07-06 08:54:44,966 - INFO - Products found on page 12: 40
+
+2023-07-06 08:54:56,921 - INFO - Scrapping Data from page 13....
+2023-07-06 08:54:56,921 - INFO - Products found on page 13: 40
+
+2023-07-06 08:55:08,912 - INFO - Scrapping Data from page 14....
+2023-07-06 08:55:08,912 - INFO - Products found on page 14: 40
+
+2023-07-06 08:55:20,228 - INFO - Scrapping Data from page 15....
+2023-07-06 08:55:20,228 - INFO - Products found on page 15: 40
+
+2023-07-06 08:55:32,694 - INFO - Scrapping Data from page 16....
+2023-07-06 08:55:32,694 - INFO - Products found on page 16: 40
+
+2023-07-06 08:55:45,844 - INFO - Scrapping Data from page 17....
+2023-07-06 08:55:45,844 - INFO - Products found on page 17: 40
+
+2023-07-06 08:55:58,791 - INFO - Scrapping Data from page 18....
+2023-07-06 08:55:58,791 - INFO - Products found on page 18: 40
+
+2023-07-06 08:56:12,279 - INFO - Scrapping Data from page 19....
+2023-07-06 08:56:12,279 - INFO - Products found on page 19: 40
+
+2023-07-06 08:56:25,882 - INFO - Scrapping Data from page 20....
+2023-07-06 08:56:25,882 - INFO - Products found on page 20: 40
+
+2023-07-06 08:56:40,287 - INFO - Scrapping Data from page 21....
+2023-07-06 08:56:40,288 - INFO - Products found on page 21: 28
+
+2023-07-06 08:56:46,767 - INFO - Finishing the scrapping....
+
+2023-07-06 08:56:46,768 - INFO - Total products found: 828
+
+2023-07-06 08:56:46,898 - INFO - Connecting to the database......
+
+2023-07-06 08:56:46,898 - INFO - Database connected successfully.
+
+2023-07-06 08:56:46,898 - INFO - Storing data in database......
+
+2023-07-06 08:56:47,364 - INFO - Data stored in Database Successfully.
+2023-07-06 09:57:40,801 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 09:57:40,819 - INFO - Scrapping Data from page 1....
+2023-07-06 09:57:40,819 - INFO - Products found on page 1: 40
+
+2023-07-06 09:57:52,561 - INFO - Scrapping Data from page 2....
+2023-07-06 09:57:52,561 - INFO - Products found on page 2: 40
+
+2023-07-06 09:58:04,070 - INFO - Scrapping Data from page 3....
+2023-07-06 09:58:04,070 - INFO - Products found on page 3: 40
+
+2023-07-06 09:58:16,061 - INFO - Scrapping Data from page 4....
+2023-07-06 09:58:16,061 - INFO - Products found on page 4: 40
+
+2023-07-06 09:58:27,628 - INFO - Scrapping Data from page 5....
+2023-07-06 09:58:27,628 - INFO - Products found on page 5: 40
+
+2023-07-06 09:58:38,940 - INFO - Scrapping Data from page 6....
+2023-07-06 09:58:38,940 - INFO - Products found on page 6: 40
+
+2023-07-06 09:58:49,650 - INFO - Scrapping Data from page 7....
+2023-07-06 09:58:49,650 - INFO - Products found on page 7: 40
+
+2023-07-06 09:59:02,285 - INFO - Scrapping Data from page 8....
+2023-07-06 09:59:02,285 - INFO - Products found on page 8: 40
+
+2023-07-06 09:59:15,287 - INFO - Scrapping Data from page 9....
+2023-07-06 09:59:15,287 - INFO - Products found on page 9: 40
+
+2023-07-06 09:59:25,961 - INFO - Scrapping Data from page 10....
+2023-07-06 09:59:25,961 - INFO - Products found on page 10: 40
+
+2023-07-06 09:59:38,973 - INFO - Scrapping Data from page 11....
+2023-07-06 09:59:38,973 - INFO - Products found on page 11: 40
+
+2023-07-06 09:59:50,205 - INFO - Scrapping Data from page 12....
+2023-07-06 09:59:50,205 - INFO - Products found on page 12: 40
+
+2023-07-06 10:00:02,209 - INFO - Scrapping Data from page 13....
+2023-07-06 10:00:02,209 - INFO - Products found on page 13: 40
+
+2023-07-06 10:00:12,949 - INFO - Scrapping Data from page 14....
+2023-07-06 10:00:12,949 - INFO - Products found on page 14: 40
+
+2023-07-06 10:00:26,527 - INFO - Scrapping Data from page 15....
+2023-07-06 10:00:26,527 - INFO - Products found on page 15: 40
+
+2023-07-06 10:00:38,691 - INFO - Scrapping Data from page 16....
+2023-07-06 10:00:38,691 - INFO - Products found on page 16: 40
+
+2023-07-06 10:00:50,584 - INFO - Scrapping Data from page 17....
+2023-07-06 10:00:50,584 - INFO - Products found on page 17: 40
+
+2023-07-06 10:01:02,335 - INFO - Scrapping Data from page 18....
+2023-07-06 10:01:02,335 - INFO - Products found on page 18: 40
+
+2023-07-06 10:01:15,395 - INFO - Scrapping Data from page 19....
+2023-07-06 10:01:15,395 - INFO - Products found on page 19: 40
+
+2023-07-06 10:01:28,207 - INFO - Scrapping Data from page 20....
+2023-07-06 10:01:28,207 - INFO - Products found on page 20: 40
+
+2023-07-06 10:01:40,770 - INFO - Scrapping Data from page 21....
+2023-07-06 10:01:40,770 - INFO - Products found on page 21: 28
+
+2023-07-06 10:01:45,732 - INFO - Finishing the scrapping....
+
+2023-07-06 10:01:45,732 - INFO - Total products found: 828
+
+2023-07-06 10:01:45,751 - INFO - Connecting to the database......
+
+2023-07-06 10:01:45,751 - INFO - Database connected successfully.
+
+2023-07-06 10:01:45,751 - INFO - Storing data in database......
+
+2023-07-06 10:01:45,751 - ERROR - An error occurred: Not all parameters were used in the SQL statement
+2023-07-06 10:01:48,169 - INFO - Browser Closed....
+2023-07-06 10:54:27,155 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 10:54:27,209 - INFO - Scrapping Data from page 1....
+2023-07-06 10:54:27,210 - INFO - Products found on page 1: 40
+
+2023-07-06 10:54:39,908 - INFO - Scrapping Data from page 2....
+2023-07-06 10:54:39,908 - INFO - Products found on page 2: 40
+
+2023-07-06 10:54:51,500 - INFO - Scrapping Data from page 3....
+2023-07-06 10:54:51,500 - INFO - Products found on page 3: 40
+
+2023-07-06 10:55:03,507 - INFO - Scrapping Data from page 4....
+2023-07-06 10:55:03,507 - INFO - Products found on page 4: 40
+
+2023-07-06 10:55:14,644 - INFO - Scrapping Data from page 5....
+2023-07-06 10:55:14,644 - INFO - Products found on page 5: 40
+
+2023-07-06 10:55:26,548 - INFO - Scrapping Data from page 6....
+2023-07-06 10:55:26,548 - INFO - Products found on page 6: 40
+
+2023-07-06 10:55:38,067 - INFO - Scrapping Data from page 7....
+2023-07-06 10:55:38,067 - INFO - Products found on page 7: 40
+
+2023-07-06 10:55:49,458 - INFO - Scrapping Data from page 8....
+2023-07-06 10:55:49,458 - INFO - Products found on page 8: 40
+
+2023-07-06 10:56:00,325 - INFO - Scrapping Data from page 9....
+2023-07-06 10:56:00,325 - INFO - Products found on page 9: 40
+
+2023-07-06 10:56:10,602 - INFO - Scrapping Data from page 10....
+2023-07-06 10:56:10,602 - INFO - Products found on page 10: 40
+
+2023-07-06 10:56:22,258 - INFO - Scrapping Data from page 11....
+2023-07-06 10:56:22,258 - INFO - Products found on page 11: 40
+
+2023-07-06 10:56:33,689 - INFO - Scrapping Data from page 12....
+2023-07-06 10:56:33,689 - INFO - Products found on page 12: 40
+
+2023-07-06 10:56:44,427 - INFO - Scrapping Data from page 13....
+2023-07-06 10:56:44,427 - INFO - Products found on page 13: 40
+
+2023-07-06 10:56:54,617 - INFO - Scrapping Data from page 14....
+2023-07-06 10:56:54,617 - INFO - Products found on page 14: 40
+
+2023-07-06 10:57:05,068 - INFO - Scrapping Data from page 15....
+2023-07-06 10:57:05,068 - INFO - Products found on page 15: 40
+
+2023-07-06 10:57:16,796 - INFO - Scrapping Data from page 16....
+2023-07-06 10:57:16,796 - INFO - Products found on page 16: 40
+
+2023-07-06 10:57:29,014 - INFO - Scrapping Data from page 17....
+2023-07-06 10:57:29,014 - INFO - Products found on page 17: 40
+
+2023-07-06 10:57:40,377 - INFO - Scrapping Data from page 18....
+2023-07-06 10:57:40,377 - INFO - Products found on page 18: 40
+
+2023-07-06 10:57:52,943 - INFO - Scrapping Data from page 19....
+2023-07-06 10:57:52,943 - INFO - Products found on page 19: 40
+
+2023-07-06 10:58:04,917 - INFO - Scrapping Data from page 20....
+2023-07-06 10:58:04,917 - INFO - Products found on page 20: 40
+
+2023-07-06 10:58:17,505 - INFO - Scrapping Data from page 21....
+2023-07-06 10:58:17,505 - INFO - Products found on page 21: 28
+
+2023-07-06 10:58:22,557 - INFO - Finishing the scrapping....
+
+2023-07-06 10:58:22,557 - INFO - Total products found: 828
+
+2023-07-06 10:58:22,597 - INFO - Connecting to the database......
+
+2023-07-06 10:58:22,597 - INFO - Database connected successfully.
+
+2023-07-06 10:58:22,597 - INFO - Storing data in database......
+
+2023-07-06 10:58:22,597 - ERROR - An error occurred: Not all parameters were used in the SQL statement
+2023-07-06 10:58:25,152 - INFO - Browser Closed....
+2023-07-06 11:03:58,332 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:03:58,898 - INFO - Scrapping Data from page 1....
+2023-07-06 11:03:58,898 - INFO - Products found on page 1: 40
+
+2023-07-06 11:04:11,434 - INFO - Scrapping Data from page 2....
+2023-07-06 11:04:11,434 - INFO - Products found on page 2: 40
+
+2023-07-06 11:04:23,712 - INFO - Scrapping Data from page 3....
+2023-07-06 11:04:23,712 - INFO - Products found on page 3: 40
+
+2023-07-06 11:04:35,105 - INFO - Scrapping Data from page 4....
+2023-07-06 11:04:35,105 - INFO - Products found on page 4: 40
+
+2023-07-06 11:04:46,718 - INFO - Scrapping Data from page 5....
+2023-07-06 11:04:46,718 - INFO - Products found on page 5: 40
+
+2023-07-06 11:04:58,470 - INFO - Scrapping Data from page 6....
+2023-07-06 11:04:58,470 - INFO - Products found on page 6: 40
+
+2023-07-06 11:05:09,665 - INFO - Scrapping Data from page 7....
+2023-07-06 11:05:09,665 - INFO - Products found on page 7: 40
+
+2023-07-06 11:05:20,518 - INFO - Scrapping Data from page 8....
+2023-07-06 11:05:20,518 - INFO - Products found on page 8: 40
+
+2023-07-06 11:05:31,005 - INFO - Scrapping Data from page 9....
+2023-07-06 11:05:31,005 - INFO - Products found on page 9: 40
+
+2023-07-06 11:05:42,388 - INFO - Scrapping Data from page 10....
+2023-07-06 11:05:42,388 - INFO - Products found on page 10: 40
+
+2023-07-06 11:05:53,261 - INFO - Scrapping Data from page 11....
+2023-07-06 11:05:53,261 - INFO - Products found on page 11: 40
+
+2023-07-06 11:06:04,896 - INFO - Scrapping Data from page 12....
+2023-07-06 11:06:04,896 - INFO - Products found on page 12: 40
+
+2023-07-06 11:06:16,087 - INFO - Scrapping Data from page 13....
+2023-07-06 11:06:16,087 - INFO - Products found on page 13: 40
+
+2023-07-06 11:06:26,395 - INFO - Scrapping Data from page 14....
+2023-07-06 11:06:26,395 - INFO - Products found on page 14: 40
+
+2023-07-06 11:06:36,976 - INFO - Scrapping Data from page 15....
+2023-07-06 11:06:36,976 - INFO - Products found on page 15: 40
+
+2023-07-06 11:06:49,084 - INFO - Scrapping Data from page 16....
+2023-07-06 11:06:49,084 - INFO - Products found on page 16: 40
+
+2023-07-06 11:07:00,942 - INFO - Scrapping Data from page 17....
+2023-07-06 11:07:00,943 - INFO - Products found on page 17: 40
+
+2023-07-06 11:07:12,809 - INFO - Scrapping Data from page 18....
+2023-07-06 11:07:12,809 - INFO - Products found on page 18: 40
+
+2023-07-06 11:07:25,668 - INFO - Scrapping Data from page 19....
+2023-07-06 11:07:25,668 - INFO - Products found on page 19: 40
+
+2023-07-06 11:07:38,276 - INFO - Scrapping Data from page 20....
+2023-07-06 11:07:38,276 - INFO - Products found on page 20: 40
+
+2023-07-06 11:07:50,570 - INFO - Scrapping Data from page 21....
+2023-07-06 11:07:50,570 - INFO - Products found on page 21: 28
+
+2023-07-06 11:07:55,410 - INFO - Finishing the scrapping....
+
+2023-07-06 11:07:55,410 - INFO - Total products found: 828
+
+2023-07-06 11:07:55,427 - INFO - Connecting to the database......
+
+2023-07-06 11:07:55,427 - INFO - Database connected successfully.
+
+2023-07-06 11:07:55,427 - INFO - Storing data in database......
+
+2023-07-06 11:07:56,136 - INFO - Data stored in Database Successfully.
+2023-07-06 11:07:58,673 - INFO - Browser Closed....
+2023-07-06 11:16:37,170 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:16:37,228 - INFO - Scrapping Data from page 1....
+2023-07-06 11:16:37,228 - INFO - Products found on page 1: 40
+
+2023-07-06 11:16:49,334 - INFO - Scrapping Data from page 2....
+2023-07-06 11:16:49,334 - INFO - Products found on page 2: 40
+
+2023-07-06 11:17:00,799 - INFO - Scrapping Data from page 3....
+2023-07-06 11:17:00,800 - INFO - Products found on page 3: 40
+
+2023-07-06 11:17:12,969 - INFO - Scrapping Data from page 4....
+2023-07-06 11:17:12,969 - INFO - Products found on page 4: 40
+
+2023-07-06 11:17:24,922 - INFO - Scrapping Data from page 5....
+2023-07-06 11:17:24,922 - INFO - Products found on page 5: 40
+
+2023-07-06 11:17:36,630 - INFO - Scrapping Data from page 6....
+2023-07-06 11:17:36,630 - INFO - Products found on page 6: 40
+
+2023-07-06 11:17:47,811 - INFO - Scrapping Data from page 7....
+2023-07-06 11:17:47,811 - INFO - Products found on page 7: 40
+
+2023-07-06 11:17:59,009 - INFO - Scrapping Data from page 8....
+2023-07-06 11:17:59,009 - INFO - Products found on page 8: 40
+
+2023-07-06 11:18:09,829 - INFO - Scrapping Data from page 9....
+2023-07-06 11:18:09,830 - INFO - Products found on page 9: 40
+
+2023-07-06 11:18:21,611 - INFO - Scrapping Data from page 10....
+2023-07-06 11:18:21,611 - INFO - Products found on page 10: 40
+
+2023-07-06 11:18:33,825 - INFO - Scrapping Data from page 11....
+2023-07-06 11:18:33,825 - INFO - Products found on page 11: 40
+
+2023-07-06 11:18:45,322 - INFO - Scrapping Data from page 12....
+2023-07-06 11:18:45,322 - INFO - Products found on page 12: 40
+
+2023-07-06 11:18:55,949 - INFO - Scrapping Data from page 13....
+2023-07-06 11:18:55,949 - INFO - Products found on page 13: 40
+
+2023-07-06 11:19:06,281 - INFO - Scrapping Data from page 14....
+2023-07-06 11:19:06,281 - INFO - Products found on page 14: 40
+
+2023-07-06 11:19:13,154 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1005, 14). Other element would receive the click: <div class="lzd-logo-bar">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F3A813+48355]
+	(No symbol) [0x00ECC4B1]
+	(No symbol) [0x00DD5358]
+	(No symbol) [0x00E05062]
+	(No symbol) [0x00E03B98]
+	(No symbol) [0x00E0239B]
+	(No symbol) [0x00E0179E]
+	(No symbol) [0x00DF9F5C]
+	(No symbol) [0x00E1A73C]
+	(No symbol) [0x00DF9A36]
+	(No symbol) [0x00E1AA94]
+	(No symbol) [0x00E2C922]
+	(No symbol) [0x00E1A536]
+	(No symbol) [0x00DF82DC]
+	(No symbol) [0x00DF93DD]
+	GetHandleVerifier [0x0119AABD+2539405]
+	GetHandleVerifier [0x011DA78F+2800735]
+	GetHandleVerifier [0x011D456C+2775612]
+	GetHandleVerifier [0x00FC51E0+616112]
+	(No symbol) [0x00ED5F8C]
+	(No symbol) [0x00ED2328]
+	(No symbol) [0x00ED240B]
+	(No symbol) [0x00EC4FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 11:19:15,689 - INFO - Browser Closed....
+2023-07-06 11:21:45,611 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:21:45,637 - INFO - Scrapping Data from page 1....
+2023-07-06 11:21:45,638 - INFO - Products found on page 1: 40
+
+2023-07-06 11:21:58,302 - INFO - Scrapping Data from page 2....
+2023-07-06 11:21:58,302 - INFO - Products found on page 2: 40
+
+2023-07-06 11:22:09,913 - INFO - Scrapping Data from page 3....
+2023-07-06 11:22:09,915 - INFO - Products found on page 3: 40
+
+2023-07-06 11:22:22,265 - INFO - Scrapping Data from page 4....
+2023-07-06 11:22:22,265 - INFO - Products found on page 4: 40
+
+2023-07-06 11:22:33,910 - INFO - Scrapping Data from page 5....
+2023-07-06 11:22:33,910 - INFO - Products found on page 5: 40
+
+2023-07-06 11:22:45,199 - INFO - Scrapping Data from page 6....
+2023-07-06 11:22:45,199 - INFO - Products found on page 6: 40
+
+2023-07-06 11:22:55,769 - INFO - Scrapping Data from page 7....
+2023-07-06 11:22:55,769 - INFO - Products found on page 7: 40
+
+2023-07-06 11:23:07,038 - INFO - Scrapping Data from page 8....
+2023-07-06 11:23:07,038 - INFO - Products found on page 8: 40
+
+2023-07-06 11:23:17,683 - INFO - Scrapping Data from page 9....
+2023-07-06 11:23:17,683 - INFO - Products found on page 9: 40
+
+2023-07-06 11:23:30,010 - INFO - Scrapping Data from page 10....
+2023-07-06 11:23:30,011 - INFO - Products found on page 10: 40
+
+2023-07-06 11:23:41,395 - INFO - Scrapping Data from page 11....
+2023-07-06 11:23:41,395 - INFO - Products found on page 11: 40
+
+2023-07-06 11:23:53,282 - INFO - Scrapping Data from page 12....
+2023-07-06 11:23:53,282 - INFO - Products found on page 12: 40
+
+2023-07-06 11:24:04,328 - INFO - Scrapping Data from page 13....
+2023-07-06 11:24:04,329 - INFO - Products found on page 13: 40
+
+2023-07-06 11:24:14,450 - INFO - Scrapping Data from page 14....
+2023-07-06 11:24:14,450 - INFO - Products found on page 14: 40
+
+2023-07-06 11:24:25,192 - INFO - Scrapping Data from page 15....
+2023-07-06 11:24:25,193 - INFO - Products found on page 15: 40
+
+2023-07-06 11:24:37,069 - INFO - Scrapping Data from page 16....
+2023-07-06 11:24:37,070 - INFO - Products found on page 16: 40
+
+2023-07-06 11:24:49,190 - INFO - Scrapping Data from page 17....
+2023-07-06 11:24:49,190 - INFO - Products found on page 17: 40
+
+2023-07-06 11:25:00,720 - INFO - Scrapping Data from page 18....
+2023-07-06 11:25:00,720 - INFO - Products found on page 18: 40
+
+2023-07-06 11:25:13,293 - INFO - Scrapping Data from page 19....
+2023-07-06 11:25:13,293 - INFO - Products found on page 19: 40
+
+2023-07-06 11:25:24,390 - INFO - Scrapping Data from page 20....
+2023-07-06 11:25:24,391 - INFO - Products found on page 20: 40
+
+2023-07-06 11:25:37,064 - INFO - Scrapping Data from page 21....
+2023-07-06 11:25:37,064 - INFO - Products found on page 21: 28
+
+2023-07-06 11:25:41,876 - INFO - Finishing the scrapping....
+
+2023-07-06 11:25:41,876 - INFO - Total products found: 828
+
+2023-07-06 11:25:41,900 - INFO - Connecting to the database......
+
+2023-07-06 11:25:41,901 - INFO - Database connected successfully.
+
+2023-07-06 11:25:41,901 - INFO - Storing data in database......
+
+2023-07-06 11:25:42,682 - INFO - Data stored in Database Successfully.
+2023-07-06 11:25:45,310 - INFO - Browser Closed....
+2023-07-06 11:36:54,172 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:36:54,204 - INFO - Scrapping Data from page 1....
+2023-07-06 11:36:54,204 - INFO - Products found on page 1: 40
+
+2023-07-06 11:37:02,081 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 14). Other element would receive the click: <div class="lzd-logo-bar">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x00795062]
+	(No symbol) [0x00793B98]
+	(No symbol) [0x0079239B]
+	(No symbol) [0x0079179E]
+	(No symbol) [0x00789F5C]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x00789A36]
+	(No symbol) [0x007AAA94]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 11:37:04,475 - INFO - Browser Closed....
+2023-07-06 11:43:19,344 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:43:19,371 - INFO - Scrapping Data from page 1....
+2023-07-06 11:43:19,372 - INFO - Products found on page 1: 40
+
+2023-07-06 11:43:28,031 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x00795062]
+	(No symbol) [0x00793B98]
+	(No symbol) [0x0079239B]
+	(No symbol) [0x0079179E]
+	(No symbol) [0x00789F5C]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x00789A36]
+	(No symbol) [0x007AAA94]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 11:43:30,423 - INFO - Browser Closed....
+2023-07-06 11:56:51,335 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 11:56:51,418 - INFO - Scrapping Data from page 1....
+2023-07-06 11:56:51,418 - INFO - Products found on page 1: 40
+
+2023-07-06 11:56:58,381 - ERROR - An error occurred: 'WebDriver' object has no attribute 'find_element_by_css_selector'
+2023-07-06 11:57:00,736 - INFO - Browser Closed....
+2023-07-06 12:00:39,708 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:00:39,731 - INFO - Scrapping Data from page 1....
+2023-07-06 12:00:39,731 - INFO - Products found on page 1: 40
+
+2023-07-06 12:00:46,666 - ERROR - An error occurred: 'WebElement' object has no attribute 'scrollIntoView'
+2023-07-06 12:00:49,174 - INFO - Browser Closed....
+2023-07-06 12:05:46,435 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:05:46,457 - INFO - Scrapping Data from page 1....
+2023-07-06 12:05:46,457 - INFO - Products found on page 1: 40
+
+2023-07-06 12:05:57,097 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x00795062]
+	(No symbol) [0x00793B98]
+	(No symbol) [0x0079239B]
+	(No symbol) [0x0079179E]
+	(No symbol) [0x00789F5C]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x00789A36]
+	(No symbol) [0x007AAA94]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 12:05:59,557 - INFO - Browser Closed....
+2023-07-06 12:25:27,987 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:25:28,013 - INFO - Scrapping Data from page 1....
+2023-07-06 12:25:28,013 - INFO - Products found on page 1: 40
+
+2023-07-06 12:25:37,662 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x00795062]
+	(No symbol) [0x00793B98]
+	(No symbol) [0x0079239B]
+	(No symbol) [0x0079179E]
+	(No symbol) [0x00789F5C]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x00789A36]
+	(No symbol) [0x007AAA94]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 12:25:40,044 - INFO - Browser Closed....
+2023-07-06 12:28:37,701 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:28:37,731 - INFO - Scrapping Data from page 1....
+2023-07-06 12:28:37,731 - INFO - Products found on page 1: 40
+
+2023-07-06 12:28:46,071 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x00795062]
+	(No symbol) [0x00793B98]
+	(No symbol) [0x0079239B]
+	(No symbol) [0x0079179E]
+	(No symbol) [0x00789F5C]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x00789A36]
+	(No symbol) [0x007AAA94]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 12:28:48,464 - INFO - Browser Closed....
+2023-07-06 12:40:37,209 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:40:37,232 - INFO - Scrapping Data from page 1....
+2023-07-06 12:40:37,232 - INFO - Products found on page 1: 40
+
+2023-07-06 12:40:44,342 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//h2[@data-spm-anchor-id]"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x007909A5]
+	(No symbol) [0x00790B3B]
+	(No symbol) [0x007BE232]
+	(No symbol) [0x007AA784]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 12:40:46,705 - INFO - Browser Closed....
+2023-07-06 12:43:25,960 - INFO - Laptops Data Scrapping Started....
+
+2023-07-06 12:43:25,986 - INFO - Scrapping Data from page 1....
+2023-07-06 12:43:25,986 - INFO - Products found on page 1: 40
+
+2023-07-06 12:43:33,218 - ERROR - An error occurred: Message: javascript error: arguments[0].scrollIntoView is not a function
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x008CA813+48355]
+	(No symbol) [0x0085C4B1]
+	(No symbol) [0x00765358]
+	(No symbol) [0x007687A1]
+	(No symbol) [0x0076A19B]
+	(No symbol) [0x007BD279]
+	(No symbol) [0x007AA73C]
+	(No symbol) [0x007BC922]
+	(No symbol) [0x007AA536]
+	(No symbol) [0x007882DC]
+	(No symbol) [0x007893DD]
+	GetHandleVerifier [0x00B2AABD+2539405]
+	GetHandleVerifier [0x00B6A78F+2800735]
+	GetHandleVerifier [0x00B6456C+2775612]
+	GetHandleVerifier [0x009551E0+616112]
+	(No symbol) [0x00865F8C]
+	(No symbol) [0x00862328]
+	(No symbol) [0x0086240B]
+	(No symbol) [0x00854FF7]
+	BaseThreadInitThunk [0x76A07BA9+25]
+	RtlInitializeExceptionChain [0x77BBBB3B+107]
+	RtlClearBits [0x77BBBABF+191]
+
+2023-07-06 12:43:35,648 - INFO - Browser Closed....
+2023-07-09 00:02:03,601 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:02:03,621 - INFO - Scrapping Data from page 1....
+2023-07-09 00:02:03,622 - INFO - Products found on page 1: 40
+
+2023-07-09 00:02:10,946 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:02:13,354 - INFO - Browser Closed....
+2023-07-09 00:28:55,697 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:28:55,975 - INFO - Scrapping Data from page 1....
+2023-07-09 00:28:55,975 - INFO - Products found on page 1: 40
+
+2023-07-09 00:29:07,301 - INFO - Scrapping Data from page 2....
+2023-07-09 00:29:07,301 - INFO - Products found on page 2: 40
+
+2023-07-09 00:29:18,098 - INFO - Scrapping Data from page 3....
+2023-07-09 00:29:18,098 - INFO - Products found on page 3: 40
+
+2023-07-09 00:29:24,696 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:29:27,164 - INFO - Browser Closed....
+2023-07-09 00:39:53,459 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:39:53,487 - INFO - Scrapping Data from page 1....
+2023-07-09 00:39:53,487 - INFO - Products found on page 1: 40
+
+2023-07-09 00:40:02,871 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 14). Other element would receive the click: <div class="lzd-logo-bar">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:40:05,253 - INFO - Browser Closed....
+2023-07-09 00:43:54,493 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:43:54,515 - INFO - Scrapping Data from page 1....
+2023-07-09 00:43:54,515 - INFO - Products found on page 1: 40
+
+2023-07-09 00:44:03,900 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:44:06,283 - INFO - Browser Closed....
+2023-07-09 00:49:50,792 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:49:50,837 - INFO - Scrapping Data from page 1....
+2023-07-09 00:49:50,837 - INFO - Products found on page 1: 40
+
+2023-07-09 00:49:58,398 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:50:00,870 - INFO - Browser Closed....
+2023-07-09 00:51:37,505 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:51:37,735 - INFO - Scrapping Data from page 1....
+2023-07-09 00:51:37,735 - INFO - Products found on page 1: 40
+
+2023-07-09 00:51:45,182 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:51:47,633 - INFO - Browser Closed....
+2023-07-09 00:53:44,304 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 00:53:44,397 - INFO - Scrapping Data from page 1....
+2023-07-09 00:53:44,398 - INFO - Products found on page 1: 40
+
+2023-07-09 00:53:53,202 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 00:53:55,589 - INFO - Browser Closed....
+2023-07-09 01:16:04,385 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:16:04,417 - INFO - Scrapping Data from page 1....
+2023-07-09 01:16:04,418 - INFO - Products found on page 1: 40
+
+2023-07-09 01:16:13,369 - ERROR - An error occurred: Message: element click intercepted: Element <li title="Next Page" tabindex="0" class=" ant-pagination-next" aria-disabled="false">...</li> is not clickable at point (1345, 686). Other element would receive the click: <div class="button-mod-box">...</div>
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00B45062]
+	(No symbol) [0x00B43B98]
+	(No symbol) [0x00B4239B]
+	(No symbol) [0x00B4179E]
+	(No symbol) [0x00B39F5C]
+	(No symbol) [0x00B5A73C]
+	(No symbol) [0x00B39A36]
+	(No symbol) [0x00B5AA94]
+	(No symbol) [0x00B6C922]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 01:16:15,790 - INFO - Browser Closed....
+2023-07-09 01:18:07,435 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:18:07,458 - INFO - Scrapping Data from page 1....
+2023-07-09 01:18:07,458 - INFO - Products found on page 1: 40
+
+2023-07-09 01:18:21,126 - INFO - Scrapping Data from page 2....
+2023-07-09 01:18:21,126 - INFO - Products found on page 2: 40
+
+2023-07-09 01:18:34,560 - INFO - Scrapping Data from page 3....
+2023-07-09 01:18:34,560 - INFO - Products found on page 3: 40
+
+2023-07-09 01:18:47,275 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00AFD293]
+	(No symbol) [0x00B5E37B]
+	(No symbol) [0x00B6C473]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 01:18:49,633 - INFO - Browser Closed....
+2023-07-09 01:21:03,311 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:21:03,467 - INFO - Scrapping Data from page 1....
+2023-07-09 01:21:03,468 - INFO - Products found on page 1: 40
+
+2023-07-09 01:21:16,710 - INFO - Scrapping Data from page 2....
+2023-07-09 01:21:16,710 - INFO - Products found on page 2: 40
+
+2023-07-09 01:21:30,630 - INFO - Scrapping Data from page 3....
+2023-07-09 01:21:30,630 - INFO - Products found on page 3: 40
+
+2023-07-09 01:21:36,500 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247B5DFD690>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b529c8dfa9ca8695dc1f03fa9e6f6cec
+2023-07-09 01:21:40,552 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247B5DFDAD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b529c8dfa9ca8695dc1f03fa9e6f6cec
+2023-07-09 01:21:44,629 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000247B5DFDFD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b529c8dfa9ca8695dc1f03fa9e6f6cec
+2023-07-09 01:21:52,740 - INFO - Browser Closed....
+2023-07-09 01:35:01,487 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:35:01,698 - INFO - Scrapping Data from page 1....
+2023-07-09 01:35:01,698 - INFO - Products found on page 1: 40
+
+2023-07-09 01:35:16,304 - INFO - Scrapping Data from page 2....
+2023-07-09 01:35:16,304 - INFO - Products found on page 2: 40
+
+2023-07-09 01:35:31,568 - INFO - Scrapping Data from page 3....
+2023-07-09 01:35:31,568 - INFO - Products found on page 3: 40
+
+2023-07-09 01:35:46,641 - INFO - Scrapping Data from page 4....
+2023-07-09 01:35:46,642 - INFO - Products found on page 4: 40
+
+2023-07-09 01:36:00,929 - INFO - Scrapping Data from page 5....
+2023-07-09 01:36:00,929 - INFO - Products found on page 5: 40
+
+2023-07-09 01:36:15,229 - INFO - Scrapping Data from page 6....
+2023-07-09 01:36:15,229 - INFO - Products found on page 6: 40
+
+2023-07-09 01:36:29,609 - INFO - Scrapping Data from page 7....
+2023-07-09 01:36:29,609 - INFO - Products found on page 7: 40
+
+2023-07-09 01:36:44,217 - INFO - Scrapping Data from page 8....
+2023-07-09 01:36:44,217 - INFO - Products found on page 8: 40
+
+2023-07-09 01:36:58,987 - INFO - Scrapping Data from page 9....
+2023-07-09 01:36:58,987 - INFO - Products found on page 9: 40
+
+2023-07-09 01:37:13,560 - INFO - Scrapping Data from page 10....
+2023-07-09 01:37:13,560 - INFO - Products found on page 10: 40
+
+2023-07-09 01:37:28,039 - INFO - Scrapping Data from page 11....
+2023-07-09 01:37:28,039 - INFO - Products found on page 11: 40
+
+2023-07-09 01:37:42,893 - INFO - Scrapping Data from page 12....
+2023-07-09 01:37:42,893 - INFO - Products found on page 12: 40
+
+2023-07-09 01:37:56,769 - INFO - Scrapping Data from page 13....
+2023-07-09 01:37:56,769 - INFO - Products found on page 13: 40
+
+2023-07-09 01:38:11,029 - INFO - Scrapping Data from page 14....
+2023-07-09 01:38:11,029 - INFO - Products found on page 14: 40
+
+2023-07-09 01:38:24,930 - INFO - Scrapping Data from page 15....
+2023-07-09 01:38:24,930 - INFO - Products found on page 15: 40
+
+2023-07-09 01:38:39,990 - INFO - Scrapping Data from page 16....
+2023-07-09 01:38:39,990 - INFO - Products found on page 16: 40
+
+2023-07-09 01:38:55,197 - INFO - Scrapping Data from page 17....
+2023-07-09 01:38:55,197 - INFO - Products found on page 17: 40
+
+2023-07-09 01:39:09,984 - INFO - Scrapping Data from page 18....
+2023-07-09 01:39:09,984 - INFO - Products found on page 18: 40
+
+2023-07-09 01:39:26,292 - INFO - Scrapping Data from page 19....
+2023-07-09 01:39:26,292 - INFO - Products found on page 19: 40
+
+2023-07-09 01:39:42,511 - INFO - Scrapping Data from page 20....
+2023-07-09 01:39:42,511 - INFO - Products found on page 20: 40
+
+2023-07-09 01:40:02,962 - INFO - Scrapping Data from page 21....
+2023-07-09 01:40:02,962 - INFO - Products found on page 21: 34
+
+2023-07-09 01:40:10,920 - INFO - Finishing the scrapping....
+
+2023-07-09 01:40:10,920 - INFO - Total products found: 834
+
+2023-07-09 01:40:11,084 - INFO - Connecting to the database......
+
+2023-07-09 01:40:11,084 - INFO - Database connected successfully.
+
+2023-07-09 01:40:11,084 - INFO - Storing data in database......
+
+2023-07-09 01:40:11,088 - ERROR - An error occurred: Not enough parameters for the SQL statement
+2023-07-09 01:40:13,599 - INFO - Browser Closed....
+2023-07-09 01:42:11,701 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:42:11,735 - INFO - Scrapping Data from page 1....
+2023-07-09 01:42:11,735 - INFO - Products found on page 1: 40
+
+2023-07-09 01:42:26,672 - INFO - Scrapping Data from page 2....
+2023-07-09 01:42:26,672 - INFO - Products found on page 2: 40
+
+2023-07-09 01:42:42,923 - INFO - Scrapping Data from page 3....
+2023-07-09 01:42:42,923 - INFO - Products found on page 3: 40
+
+2023-07-09 01:42:57,022 - INFO - Scrapping Data from page 4....
+2023-07-09 01:42:57,022 - INFO - Products found on page 4: 40
+
+2023-07-09 01:43:10,693 - INFO - Scrapping Data from page 5....
+2023-07-09 01:43:10,695 - INFO - Products found on page 5: 40
+
+2023-07-09 01:43:24,027 - INFO - Scrapping Data from page 6....
+2023-07-09 01:43:24,027 - INFO - Products found on page 6: 40
+
+2023-07-09 01:43:37,789 - INFO - Scrapping Data from page 7....
+2023-07-09 01:43:37,791 - INFO - Products found on page 7: 40
+
+2023-07-09 01:43:52,273 - INFO - Scrapping Data from page 8....
+2023-07-09 01:43:52,273 - INFO - Products found on page 8: 40
+
+2023-07-09 01:44:06,038 - INFO - Scrapping Data from page 9....
+2023-07-09 01:44:06,038 - INFO - Products found on page 9: 40
+
+2023-07-09 01:44:21,104 - INFO - Scrapping Data from page 10....
+2023-07-09 01:44:21,104 - INFO - Products found on page 10: 40
+
+2023-07-09 01:44:35,017 - INFO - Scrapping Data from page 11....
+2023-07-09 01:44:35,018 - INFO - Products found on page 11: 40
+
+2023-07-09 01:44:50,649 - INFO - Scrapping Data from page 12....
+2023-07-09 01:44:50,649 - INFO - Products found on page 12: 40
+
+2023-07-09 01:45:03,964 - INFO - Scrapping Data from page 13....
+2023-07-09 01:45:03,965 - INFO - Products found on page 13: 40
+
+2023-07-09 01:45:18,114 - INFO - Scrapping Data from page 14....
+2023-07-09 01:45:18,114 - INFO - Products found on page 14: 40
+
+2023-07-09 01:45:31,342 - INFO - Scrapping Data from page 15....
+2023-07-09 01:45:31,342 - INFO - Products found on page 15: 40
+
+2023-07-09 01:45:44,949 - INFO - Scrapping Data from page 16....
+2023-07-09 01:45:44,950 - INFO - Products found on page 16: 40
+
+2023-07-09 01:45:59,977 - INFO - Scrapping Data from page 17....
+2023-07-09 01:45:59,977 - INFO - Products found on page 17: 40
+
+2023-07-09 01:46:13,561 - INFO - Scrapping Data from page 18....
+2023-07-09 01:46:13,561 - INFO - Products found on page 18: 40
+
+2023-07-09 01:46:28,526 - INFO - Scrapping Data from page 19....
+2023-07-09 01:46:28,526 - INFO - Products found on page 19: 40
+
+2023-07-09 01:46:43,730 - INFO - Scrapping Data from page 20....
+2023-07-09 01:46:43,732 - INFO - Products found on page 20: 40
+
+2023-07-09 01:47:00,318 - INFO - Scrapping Data from page 21....
+2023-07-09 01:47:00,319 - INFO - Products found on page 21: 34
+
+2023-07-09 01:47:06,605 - INFO - Finishing the scrapping....
+
+2023-07-09 01:47:06,605 - INFO - Total products found: 834
+
+2023-07-09 01:47:06,621 - INFO - Connecting to the database......
+
+2023-07-09 01:47:06,621 - INFO - Database connected successfully.
+
+2023-07-09 01:47:06,621 - INFO - Storing data in database......
+
+2023-07-09 01:47:06,646 - ERROR - An error occurred: 1366 (HY000): Incorrect decimal value: 'https://www.daraz.pk/products/dell-chromebook-11-3189-360-touchscreen-intel-celeron-n3060-4gb-ram-16gb-ssd-with-play-store-pubg-' for column 'laptop_ratings' at row 1
+2023-07-09 01:47:09,165 - INFO - Browser Closed....
+2023-07-09 01:51:42,398 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:51:42,426 - INFO - Scrapping Data from page 1....
+2023-07-09 01:51:42,427 - INFO - Products found on page 1: 40
+
+2023-07-09 01:51:59,098 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/f22d5559dd8d5486c601b45db326949d
+2023-07-09 01:52:03,168 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D1446C6290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f22d5559dd8d5486c601b45db326949d
+2023-07-09 01:53:52,578 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C7A813+48355]
+	(No symbol) [0x00C0C4B1]
+	(No symbol) [0x00B15358]
+	(No symbol) [0x00AFD293]
+	(No symbol) [0x00B5E37B]
+	(No symbol) [0x00B6C473]
+	(No symbol) [0x00B5A536]
+	(No symbol) [0x00B382DC]
+	(No symbol) [0x00B393DD]
+	GetHandleVerifier [0x00EDAABD+2539405]
+	GetHandleVerifier [0x00F1A78F+2800735]
+	GetHandleVerifier [0x00F1456C+2775612]
+	GetHandleVerifier [0x00D051E0+616112]
+	(No symbol) [0x00C15F8C]
+	(No symbol) [0x00C12328]
+	(No symbol) [0x00C1240B]
+	(No symbol) [0x00C04FF7]
+	BaseThreadInitThunk [0x762A7BA9+25]
+	RtlInitializeExceptionChain [0x7792BB3B+107]
+	RtlClearBits [0x7792BABF+191]
+
+2023-07-09 01:53:54,966 - INFO - Browser Closed....
+2023-07-09 01:56:07,126 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 01:56:07,164 - INFO - Scrapping Data from page 1....
+2023-07-09 01:56:07,164 - INFO - Products found on page 1: 40
+
+2023-07-09 01:56:22,788 - INFO - Scrapping Data from page 2....
+2023-07-09 01:56:22,788 - INFO - Products found on page 2: 40
+
+2023-07-09 01:56:38,418 - INFO - Scrapping Data from page 3....
+2023-07-09 01:56:38,418 - INFO - Products found on page 3: 40
+
+2023-07-09 01:56:53,191 - INFO - Scrapping Data from page 4....
+2023-07-09 01:56:53,191 - INFO - Products found on page 4: 40
+
+2023-07-09 01:57:07,625 - INFO - Scrapping Data from page 5....
+2023-07-09 01:57:07,625 - INFO - Products found on page 5: 40
+
+2023-07-09 01:57:22,060 - INFO - Scrapping Data from page 6....
+2023-07-09 01:57:22,060 - INFO - Products found on page 6: 40
+
+2023-07-09 01:57:36,146 - INFO - Scrapping Data from page 7....
+2023-07-09 01:57:36,146 - INFO - Products found on page 7: 40
+
+2023-07-09 01:57:49,694 - INFO - Scrapping Data from page 8....
+2023-07-09 01:57:49,694 - INFO - Products found on page 8: 40
+
+2023-07-09 01:58:03,046 - INFO - Scrapping Data from page 9....
+2023-07-09 01:58:03,046 - INFO - Products found on page 9: 40
+
+2023-07-09 01:58:15,852 - INFO - Scrapping Data from page 10....
+2023-07-09 01:58:15,852 - INFO - Products found on page 10: 40
+
+2023-07-09 01:58:29,278 - INFO - Scrapping Data from page 11....
+2023-07-09 01:58:29,278 - INFO - Products found on page 11: 40
+
+2023-07-09 01:58:43,002 - INFO - Scrapping Data from page 12....
+2023-07-09 01:58:43,002 - INFO - Products found on page 12: 40
+
+2023-07-09 01:58:55,872 - INFO - Scrapping Data from page 13....
+2023-07-09 01:58:55,872 - INFO - Products found on page 13: 40
+
+2023-07-09 01:59:10,190 - INFO - Scrapping Data from page 14....
+2023-07-09 01:59:10,190 - INFO - Products found on page 14: 40
+
+2023-07-09 01:59:23,863 - INFO - Scrapping Data from page 15....
+2023-07-09 01:59:23,863 - INFO - Products found on page 15: 40
+
+2023-07-09 01:59:37,246 - INFO - Scrapping Data from page 16....
+2023-07-09 01:59:37,246 - INFO - Products found on page 16: 40
+
+2023-07-09 01:59:51,188 - INFO - Scrapping Data from page 17....
+2023-07-09 01:59:51,193 - INFO - Products found on page 17: 40
+
+2023-07-09 02:00:05,352 - INFO - Scrapping Data from page 18....
+2023-07-09 02:00:05,354 - INFO - Products found on page 18: 40
+
+2023-07-09 02:00:20,082 - INFO - Scrapping Data from page 19....
+2023-07-09 02:00:20,082 - INFO - Products found on page 19: 40
+
+2023-07-09 02:00:35,229 - INFO - Scrapping Data from page 20....
+2023-07-09 02:00:35,229 - INFO - Products found on page 20: 40
+
+2023-07-09 02:00:53,833 - INFO - Scrapping Data from page 21....
+2023-07-09 02:00:53,833 - INFO - Products found on page 21: 34
+
+2023-07-09 02:01:00,342 - INFO - Finishing the scrapping....
+
+2023-07-09 02:01:00,342 - INFO - Total products found: 834
+
+2023-07-09 02:01:00,363 - INFO - Connecting to the database......
+
+2023-07-09 02:01:00,363 - INFO - Database connected successfully.
+
+2023-07-09 02:01:00,363 - INFO - Storing data in database......
+
+2023-07-09 02:01:00,520 - ERROR - An error occurred: 1406 (22001): Data too long for column 'laptop_url' at row 1
+2023-07-09 02:01:03,313 - INFO - Browser Closed....
+2023-07-09 02:03:45,615 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 02:03:45,651 - INFO - Scrapping Data from page 1....
+2023-07-09 02:03:45,651 - INFO - Products found on page 1: 40
+
+2023-07-09 02:04:00,808 - INFO - Scrapping Data from page 2....
+2023-07-09 02:04:00,808 - INFO - Products found on page 2: 40
+
+2023-07-09 02:04:17,298 - INFO - Scrapping Data from page 3....
+2023-07-09 02:04:17,298 - INFO - Products found on page 3: 40
+
+2023-07-09 02:04:31,339 - INFO - Scrapping Data from page 4....
+2023-07-09 02:04:31,339 - INFO - Products found on page 4: 40
+
+2023-07-09 02:04:46,204 - INFO - Scrapping Data from page 5....
+2023-07-09 02:04:46,204 - INFO - Products found on page 5: 40
+
+2023-07-09 02:05:01,018 - INFO - Scrapping Data from page 6....
+2023-07-09 02:05:01,018 - INFO - Products found on page 6: 40
+
+2023-07-09 02:05:14,496 - INFO - Scrapping Data from page 7....
+2023-07-09 02:05:14,496 - INFO - Products found on page 7: 40
+
+2023-07-09 02:05:30,177 - INFO - Scrapping Data from page 8....
+2023-07-09 02:05:30,178 - INFO - Products found on page 8: 40
+
+2023-07-09 02:05:44,515 - INFO - Scrapping Data from page 9....
+2023-07-09 02:05:44,515 - INFO - Products found on page 9: 40
+
+2023-07-09 02:05:59,563 - INFO - Scrapping Data from page 10....
+2023-07-09 02:05:59,563 - INFO - Products found on page 10: 40
+
+2023-07-09 02:06:12,904 - INFO - Scrapping Data from page 11....
+2023-07-09 02:06:12,904 - INFO - Products found on page 11: 40
+
+2023-07-09 02:06:27,479 - INFO - Scrapping Data from page 12....
+2023-07-09 02:06:27,479 - INFO - Products found on page 12: 40
+
+2023-07-09 02:06:42,317 - INFO - Scrapping Data from page 13....
+2023-07-09 02:06:42,317 - INFO - Products found on page 13: 40
+
+2023-07-09 02:06:55,681 - INFO - Scrapping Data from page 14....
+2023-07-09 02:06:55,681 - INFO - Products found on page 14: 40
+
+2023-07-09 02:07:09,047 - INFO - Scrapping Data from page 15....
+2023-07-09 02:07:09,047 - INFO - Products found on page 15: 40
+
+2023-07-09 02:07:22,760 - INFO - Scrapping Data from page 16....
+2023-07-09 02:07:22,760 - INFO - Products found on page 16: 40
+
+2023-07-09 02:07:37,099 - INFO - Scrapping Data from page 17....
+2023-07-09 02:07:37,100 - INFO - Products found on page 17: 40
+
+2023-07-09 02:07:51,086 - INFO - Scrapping Data from page 18....
+2023-07-09 02:07:51,086 - INFO - Products found on page 18: 40
+
+2023-07-09 02:08:06,082 - INFO - Scrapping Data from page 19....
+2023-07-09 02:08:06,082 - INFO - Products found on page 19: 40
+
+2023-07-09 02:08:21,002 - INFO - Scrapping Data from page 20....
+2023-07-09 02:08:21,002 - INFO - Products found on page 20: 40
+
+2023-07-09 02:08:39,082 - INFO - Scrapping Data from page 21....
+2023-07-09 02:08:39,082 - INFO - Products found on page 21: 34
+
+2023-07-09 02:08:46,010 - INFO - Finishing the scrapping....
+
+2023-07-09 02:08:46,010 - INFO - Total products found: 834
+
+2023-07-09 02:08:46,082 - INFO - Connecting to the database......
+
+2023-07-09 02:08:46,082 - INFO - Database connected successfully.
+
+2023-07-09 02:08:46,082 - INFO - Storing data in database......
+
+2023-07-09 02:08:46,969 - INFO - Data stored in Database Successfully.
+2023-07-09 02:08:49,719 - INFO - Browser Closed....
+2023-07-09 08:26:17,738 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 08:26:17,759 - INFO - Scrapping Data from page 1....
+2023-07-09 08:26:17,759 - INFO - Products found on page 1: 40
+
+2023-07-09 08:26:52,835 - INFO - Scrapping Data from page 2....
+2023-07-09 08:26:52,835 - INFO - Products found on page 2: 40
+
+2023-07-09 08:27:09,448 - INFO - Scrapping Data from page 3....
+2023-07-09 08:27:09,448 - INFO - Products found on page 3: 40
+
+2023-07-09 08:27:23,656 - INFO - Scrapping Data from page 4....
+2023-07-09 08:27:23,658 - INFO - Products found on page 4: 40
+
+2023-07-09 08:27:37,070 - INFO - Scrapping Data from page 5....
+2023-07-09 08:27:37,070 - INFO - Products found on page 5: 40
+
+2023-07-09 08:27:57,869 - INFO - Scrapping Data from page 6....
+2023-07-09 08:27:57,869 - INFO - Products found on page 6: 40
+
+2023-07-09 08:28:17,152 - INFO - Scrapping Data from page 7....
+2023-07-09 08:28:17,152 - INFO - Products found on page 7: 40
+
+2023-07-09 08:28:35,332 - INFO - Scrapping Data from page 8....
+2023-07-09 08:28:35,332 - INFO - Products found on page 8: 40
+
+2023-07-09 08:28:51,701 - INFO - Scrapping Data from page 9....
+2023-07-09 08:28:51,701 - INFO - Products found on page 9: 40
+
+2023-07-09 08:29:09,242 - INFO - Scrapping Data from page 10....
+2023-07-09 08:29:09,242 - INFO - Products found on page 10: 40
+
+2023-07-09 08:29:24,456 - INFO - Scrapping Data from page 11....
+2023-07-09 08:29:24,456 - INFO - Products found on page 11: 40
+
+2023-07-09 08:29:39,545 - INFO - Scrapping Data from page 12....
+2023-07-09 08:29:39,545 - INFO - Products found on page 12: 40
+
+2023-07-09 08:29:58,704 - INFO - Scrapping Data from page 13....
+2023-07-09 08:29:58,705 - INFO - Products found on page 13: 40
+
+2023-07-09 08:30:15,097 - INFO - Scrapping Data from page 14....
+2023-07-09 08:30:15,098 - INFO - Products found on page 14: 40
+
+2023-07-09 08:30:28,081 - INFO - Scrapping Data from page 15....
+2023-07-09 08:30:28,081 - INFO - Products found on page 15: 40
+
+2023-07-09 08:30:42,880 - INFO - Scrapping Data from page 16....
+2023-07-09 08:30:42,880 - INFO - Products found on page 16: 40
+
+2023-07-09 08:30:57,078 - INFO - Scrapping Data from page 17....
+2023-07-09 08:30:57,078 - INFO - Products found on page 17: 40
+
+2023-07-09 08:31:10,676 - INFO - Scrapping Data from page 18....
+2023-07-09 08:31:10,676 - INFO - Products found on page 18: 40
+
+2023-07-09 08:31:24,229 - INFO - Scrapping Data from page 19....
+2023-07-09 08:31:24,229 - INFO - Products found on page 19: 40
+
+2023-07-09 08:31:38,475 - INFO - Scrapping Data from page 20....
+2023-07-09 08:31:38,475 - INFO - Products found on page 20: 40
+
+2023-07-09 08:31:55,308 - INFO - Scrapping Data from page 21....
+2023-07-09 08:31:55,308 - INFO - Products found on page 21: 34
+
+2023-07-09 08:32:04,542 - INFO - Finishing the scrapping....
+
+2023-07-09 08:32:04,543 - INFO - Total products found: 834
+
+2023-07-09 08:32:04,623 - INFO - Connecting to the database......
+
+2023-07-09 08:32:04,623 - INFO - Database connected successfully.
+
+2023-07-09 08:32:04,626 - INFO - Storing data in database......
+
+2023-07-09 08:32:05,368 - INFO - Data stored in Database Successfully.
+2023-07-09 08:32:08,183 - INFO - Browser Closed....
+2023-07-09 08:42:45,360 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0025A813+48355]
+	(No symbol) [0x001EC4B1]
+	(No symbol) [0x000F5358]
+	(No symbol) [0x000DD293]
+	(No symbol) [0x0013E37B]
+	(No symbol) [0x0014C473]
+	(No symbol) [0x0013A536]
+	(No symbol) [0x001182DC]
+	(No symbol) [0x001193DD]
+	GetHandleVerifier [0x004BAABD+2539405]
+	GetHandleVerifier [0x004FA78F+2800735]
+	GetHandleVerifier [0x004F456C+2775612]
+	GetHandleVerifier [0x002E51E0+616112]
+	(No symbol) [0x001F5F8C]
+	(No symbol) [0x001F2328]
+	(No symbol) [0x001F240B]
+	(No symbol) [0x001E4FF7]
+	BaseThreadInitThunk [0x75F07BA9+25]
+	RtlInitializeExceptionChain [0x776BBB3B+107]
+	RtlClearBits [0x776BBABF+191]
+	(No symbol) [0x00000000]
+
+2023-07-09 08:42:47,921 - INFO - Browser Closed....
+2023-07-09 08:43:55,561 - INFO - Laptops Data Scrapping Started....
+
+2023-07-09 08:43:55,585 - INFO - Scrapping Data from page 1....
+2023-07-09 08:43:55,585 - INFO - Products found on page 1: 40
+
+2023-07-09 08:44:10,951 - INFO - Scrapping Data from page 2....
+2023-07-09 08:44:10,951 - INFO - Products found on page 2: 40
+
+2023-07-09 08:44:25,862 - INFO - Scrapping Data from page 3....
+2023-07-09 08:44:25,862 - INFO - Products found on page 3: 40
+
+2023-07-09 08:44:41,884 - INFO - Scrapping Data from page 4....
+2023-07-09 08:44:41,884 - INFO - Products found on page 4: 40
+
+2023-07-09 08:44:56,612 - INFO - Scrapping Data from page 5....
+2023-07-09 08:44:56,612 - INFO - Products found on page 5: 40
+
+2023-07-09 08:45:11,457 - INFO - Scrapping Data from page 6....
+2023-07-09 08:45:11,457 - INFO - Products found on page 6: 40
+
+2023-07-09 08:45:26,029 - INFO - Scrapping Data from page 7....
+2023-07-09 08:45:26,029 - INFO - Products found on page 7: 40
+
+2023-07-09 08:45:40,314 - INFO - Scrapping Data from page 8....
+2023-07-09 08:45:40,314 - INFO - Products found on page 8: 40
+
+2023-07-09 08:45:54,681 - INFO - Scrapping Data from page 9....
+2023-07-09 08:45:54,681 - INFO - Products found on page 9: 40
+
+2023-07-09 08:46:09,299 - INFO - Scrapping Data from page 10....
+2023-07-09 08:46:09,299 - INFO - Products found on page 10: 40
+
+2023-07-09 08:46:23,588 - INFO - Scrapping Data from page 11....
+2023-07-09 08:46:23,588 - INFO - Products found on page 11: 40
+
+2023-07-09 08:46:37,888 - INFO - Scrapping Data from page 12....
+2023-07-09 08:46:37,888 - INFO - Products found on page 12: 40
+
+2023-07-09 08:46:52,054 - INFO - Scrapping Data from page 13....
+2023-07-09 08:46:52,054 - INFO - Products found on page 13: 40
+
+2023-07-09 08:47:06,151 - INFO - Scrapping Data from page 14....
+2023-07-09 08:47:06,151 - INFO - Products found on page 14: 40
+
+2023-07-09 08:47:20,410 - INFO - Scrapping Data from page 15....
+2023-07-09 08:47:20,412 - INFO - Products found on page 15: 40
+
+2023-07-09 08:47:35,096 - INFO - Scrapping Data from page 16....
+2023-07-09 08:47:35,096 - INFO - Products found on page 16: 40
+
+2023-07-09 08:47:51,541 - INFO - Scrapping Data from page 17....
+2023-07-09 08:47:51,541 - INFO - Products found on page 17: 40
+
+2023-07-09 08:48:07,023 - INFO - Scrapping Data from page 18....
+2023-07-09 08:48:07,023 - INFO - Products found on page 18: 40
+
+2023-07-09 08:48:22,516 - INFO - Scrapping Data from page 19....
+2023-07-09 08:48:22,516 - INFO - Products found on page 19: 40
+
+2023-07-09 08:48:38,172 - INFO - Scrapping Data from page 20....
+2023-07-09 08:48:38,172 - INFO - Products found on page 20: 40
+
+2023-07-09 08:48:54,582 - INFO - Scrapping Data from page 21....
+2023-07-09 08:48:54,584 - INFO - Products found on page 21: 34
+
+2023-07-09 08:49:03,318 - INFO - Finishing the scrapping....
+
+2023-07-09 08:49:03,319 - INFO - Total products found: 834
+
+2023-07-09 08:49:03,341 - INFO - Connecting to the database......
+
+2023-07-09 08:49:03,341 - INFO - Database connected successfully.
+
+2023-07-09 08:49:03,341 - INFO - Storing data in database......
+
+2023-07-09 08:49:04,179 - INFO - Data stored in Database Successfully.
+2023-07-09 08:49:06,879 - INFO - Browser Closed....
+2023-07-10 01:01:13,052 - ERROR - An error occurred: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//li[@title='Next Page']"}
+  (Session info: chrome=114.0.5735.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0072A813+48355]
+	(No symbol) [0x006BC4B1]
+	(No symbol) [0x005C5358]
+	(No symbol) [0x005F09A5]
+	(No symbol) [0x005F0B3B]
+	(No symbol) [0x0061E232]
+	(No symbol) [0x0060A784]
+	(No symbol) [0x0061C922]
+	(No symbol) [0x0060A536]
+	(No symbol) [0x005E82DC]
+	(No symbol) [0x005E93DD]
+	GetHandleVerifier [0x0098AABD+2539405]
+	GetHandleVerifier [0x009CA78F+2800735]
+	GetHandleVerifier [0x009C456C+2775612]
+	GetHandleVerifier [0x007B51E0+616112]
+	(No symbol) [0x006C5F8C]
+	(No symbol) [0x006C2328]
+	(No symbol) [0x006C240B]
+	(No symbol) [0x006B4FF7]
+	BaseThreadInitThunk [0x75F07BA9+25]
+	RtlInitializeExceptionChain [0x776BBB3B+107]
+	RtlClearBits [0x776BBABF+191]
+
+2023-07-10 01:01:15,322 - INFO - Browser Closed....
+2023-07-10 01:02:15,609 - INFO - Laptops Data Scrapping Started....
+
+2023-07-10 01:02:15,653 - INFO - Scrapping Data from page 1....
+2023-07-10 01:02:15,653 - INFO - Products found on page 1: 40
+
+2023-07-10 01:02:32,205 - INFO - Scrapping Data from page 2....
+2023-07-10 01:02:32,205 - INFO - Products found on page 2: 40
+
+2023-07-10 01:02:37,605 - ERROR - Error occurred while scraping ratings: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0072A813+48355]
+	(No symbol) [0x006BC4B1]
+	(No symbol) [0x005C5358]
+	(No symbol) [0x005AD293]
+	(No symbol) [0x0060E37B]
+	(No symbol) [0x0061C473]
+	(No symbol) [0x0060A536]
+	(No symbol) [0x005E82DC]
+	(No symbol) [0x005E93DD]
+	GetHandleVerifier [0x0098AABD+2539405]
+	GetHandleVerifier [0x009CA78F+2800735]
+	GetHandleVerifier [0x009C456C+2775612]
+	GetHandleVerifier [0x007B51E0+616112]
+	(No symbol) [0x006C5F8C]
+	(No symbol) [0x006C2328]
+	(No symbol) [0x006C240B]
+	(No symbol) [0x006B4FF7]
+	BaseThreadInitThunk [0x75F07BA9+25]
+	RtlInitializeExceptionChain [0x776BBB3B+107]
+	RtlClearBits [0x776BBABF+191]
+
+2023-07-10 01:02:37,620 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0072A813+48355]
+	(No symbol) [0x006BC4B1]
+	(No symbol) [0x005C5358]
+	(No symbol) [0x005AD293]
+	(No symbol) [0x0060E37B]
+	(No symbol) [0x0061C473]
+	(No symbol) [0x0060A536]
+	(No symbol) [0x005E82DC]
+	(No symbol) [0x005E93DD]
+	GetHandleVerifier [0x0098AABD+2539405]
+	GetHandleVerifier [0x009CA78F+2800735]
+	GetHandleVerifier [0x009C456C+2775612]
+	GetHandleVerifier [0x007B51E0+616112]
+	(No symbol) [0x006C5F8C]
+	(No symbol) [0x006C2328]
+	(No symbol) [0x006C240B]
+	(No symbol) [0x006B4FF7]
+	BaseThreadInitThunk [0x75F07BA9+25]
+	RtlInitializeExceptionChain [0x776BBB3B+107]
+	RtlClearBits [0x776BBABF+191]
+
+2023-07-10 01:02:39,899 - INFO - Browser Closed....
