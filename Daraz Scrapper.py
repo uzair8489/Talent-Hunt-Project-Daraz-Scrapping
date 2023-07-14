@@ -185,7 +185,7 @@ def daraz_scrapping_script():
 
 
 # Schedule the script to run every Tuesday at a specific time
-schedule.every().monday.at("01:02").do(daraz_scrapping_script)
+schedule.every().tuesday.at("09:00").do(daraz_scrapping_script)
 
 while True:
     schedule.run_pending()
